@@ -13,4 +13,6 @@ I am a Ph.D. student in the Department of Computer Science at Virginia Tech. I a
 Education
 ======
 
-
+  - Ph.D. Student in Computer Science, Virginia Tech (2015.8 ~)
+  - M.S. in Computer and Communication Science, 2009
+  - B.E. in Electrical and Computer Engineering, 2007
