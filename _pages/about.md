@@ -22,4 +22,4 @@ Employment
 ======
 
   - Commissioned Researcher in Robotics Research, [KIST](https://www.kist.re.kr/kist_web/main/) (2012 ~ 2015)
-  - Engineer in Access R&D/System Eng Teams, [SK Telesys](http://www.sktelesys.com/eng/) (2009 ~ 2012)(alternative military service)
+  - Engineer in Access R&D/System Eng Teams, [SK Telesys](http://www.sktelesys.com/eng/) (2009 ~ 2012, military duty)
