@@ -14,5 +14,5 @@ Education
 ======
 
   - Ph.D. Student in Computer Science, Virginia Tech (2015.8 ~)
-  - M.S. in Computer and Communication Science, 2009
-  - B.E. in Electrical and Computer Engineering, 2007
+  - M.S. in Computer and Communication, POSTECH, 2007 ~ 2009
+  - B.E. in Electrical and Computer Engineering, 2003 ~ 2007
