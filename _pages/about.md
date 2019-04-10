@@ -10,6 +10,11 @@ redirect_from:
 
 I am a Ph.D. student in the Department of Computer Science at Virginia Tech. I am a part of Software Innovation Lab advised by [Prof. Eli Tilevich](http://people.cs.vt.edu/~tilevich/).
 
+Research Topics
+======
+  - Software Engineering
+  - Distributed Systems
+
 Education
 ======
 
