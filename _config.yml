@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kijin An / Site Title"
+title                    : "Kijin An"
 title_separator          : "-"
 name                     : &name "Kijin An"
 description              : &description "personal description"
