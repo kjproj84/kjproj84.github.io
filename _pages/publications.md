@@ -7,7 +7,7 @@ author_profile: true
 
 International Conference Papers
 ---
-1. Kijin An and Eli Tilevich, submitted one work to a conference 2019.
+1. **Kijin An** and Eli Tilevich, submitted one work to a Software Engineering Conference 2019.
 2. **Kijin An** and Eli Tilevich. “Catch & Release: An Approach to Debugging Distributed Full-Stack JavaScript Applications“, *19th International Conference on Web Engineering (ICWE 2019)*, June 2019. (25%, 26/106)
 3. **Kijin An**, “Facilitating the Evolutionary Modifications in Distributed Apps via Automated Refactoring,” Doctoral Symposium *19th International Conference on Web Engineering (ICWE 2019)*, June 2019. 
 4. Yin Liu, **Kijin An**, and Eli Tilevich, "RT-Trust: Automated Refactoring for Trusted Execution Under Real-Time Constraints," *Proceedings of the 17th International Conference on Generative Programming: Concepts & Experience (GPCE 2018)*, Nov 2018.
