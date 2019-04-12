@@ -9,3 +9,4 @@ Actively used software applications must be changed continuously to ensure their
 This refactoring transforms a distributed application into its semantically equivalent centralized variant, in which 
 the remote parts are glued together and communicate with each other by means of regular function calls, eliminating any middleware, server, and network related problems from the list of potential problem causes. Programmers then can use the resulting centralized variant to facilitate debugging, security enhancements, and fault-tolerance adaptations.
 
+![image info](../images/overview.png)
