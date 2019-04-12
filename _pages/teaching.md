@@ -12,6 +12,11 @@ TEACHING EXPERIENCE
    * I worked for the same project called ["Understanding for Heap Spraying"](http://courses.cs.vt.edu/cs2506/Spring2018/C/HS/handout.pdf).
    * I also holded two Info sessions. See [my slides](https://docs.google.com/presentation/d/1Nx5RuC0M54S65wXEbromVo19iX3_wWTvXKEY5DarlOc/edit?usp=sharing).
 
+Talks
+---
+- 2016 KSEA-KOCSEA Symposium
+- MobileSoft 2018 in Gothenburg
+
 
 COURSES in CS@VT
 ---
