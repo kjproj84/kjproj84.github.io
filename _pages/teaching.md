@@ -15,5 +15,5 @@ TEACHING EXPERIENCE
 
 COURSES in CS@VT
 ---
-- SE:Software Refactoring(CS6704), Programming Language(CS5314), Software Engineering Research(CS6704), Multiprocessor Programming (CS5485), Computability and Formal Languages (CS 5104)
-- AI:Numerical Analysis(CS5725), Natural Language Processing(CS5984), Data Analytic I(CS5515), Deep learning (CS5984), Verification of Digital Systems(ECE5506)
+- SE:Software Refactoring(CS6704), Programming Language(CS5314), Software Engineering Research(CS6704), Multiprocessor Programming (CS5485), Computability and Formal Languages (CS5104), Verification of Digital Systems(ECE5506)
+- AI:Numerical Analysis(CS5725), Natural Language Processing(CS5984), Data Analytic I(CS5515), Deep Learning (CS5984)
