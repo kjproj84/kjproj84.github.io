@@ -9,14 +9,14 @@ Teaching Experience
 ---
 - GTA in Computer Organization I (CS2505) at Virginia Tech, Fall 2015,  Spring 2016
 - GTA in Computer Organization II (CS2506) at Virginia Tech, Fall 2017, Spring 2018, Fall 2018
-   * I worked for the same project called ["Understanding Heap-Spraying Attacks"](http://courses.cs.vt.edu/cs2506/Spring2018/C/HS/handout.pdf). (I studied this work with about 540 undergrad students in total).
-   * I also holded two Info sessions. See [my slides](https://docs.google.com/presentation/d/1Nx5RuC0M54S65wXEbromVo19iX3_wWTvXKEY5DarlOc/edit?usp=sharing).
+   * I worked for the same project called ["Understanding Heap-Spraying Attacks"](http://courses.cs.vt.edu/cs2506/Spring2018/C/HS/handout.pdf). (I studied this work with about 540 VT undergrad students).
+   * I also had two Info sessions. See [my slides](https://docs.google.com/presentation/d/1Nx5RuC0M54S65wXEbromVo19iX3_wWTvXKEY5DarlOc/edit?usp=sharing).
 
 Talks
 ---
 - 2016 KSEA-KOCSEA Doctoral Symposium
 - MobileSoft 2018 in Gothenburg, Sweden
-- (to be presented for) Technical Paper/Doctoral Symposium at ICWE 2019
+- (to be presented in) Technical Paper/Doctoral Symposium at ICWE 2019
 
 Courses in CS@VT
 ---
