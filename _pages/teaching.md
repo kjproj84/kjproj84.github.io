@@ -16,7 +16,8 @@ Talks
 ---
 - 2016 KSEA-KOCSEA Doctoral Symposium
 - MobileSoft 2018 in Gothenburg, Sweden
-- (to be presented in) Technical Paper/Doctoral Symposium at ICWE 2019
+- [Technical Paper "CandoR" presented at ICWE 2019](http://web.geni-pco.com/icwe2019/2Catch_Release_An_Approach_to_Debugging_Distributed_Full-Stack_JavaScript_Applications.pdf)
+- Doctoral Symposium Paper presented at ICWE 2019 (http://web.geni-pco.com/icwe2019/3Facilitating_the_Evolutionary_Modifications_in_Distributed_Apps_via_Automated_Refactoring.pdf)
 
 Courses in CS@VT
 ---
