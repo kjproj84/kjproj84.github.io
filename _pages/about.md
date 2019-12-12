@@ -24,6 +24,6 @@ Employment
 
 News
 ---
-  - Oct. 2019, One work is submitted to WWW Conference 2020.
-  - Oct. 2019, One work is submitted to SANER 2020.
+  - Oct. 2019, One work is submitted to a Conference.
+  - Dec. 2019, One work is accepted to SANER 2020.
   
