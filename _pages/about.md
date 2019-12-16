@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Department of Computer Science at Virginia Tech. I am a member of the Software Innovation Lab, advised by [Prof. Eli Tilevich](http://people.cs.vt.edu/~tilevich/). My Research Topics are Software Engineering and Distributed Systems.
+I am a Ph.D. student in the Department of Computer Science at Virginia Tech. I am a member of the Software Innovation Lab, advised by [Prof. Eli Tilevich](http://people.cs.vt.edu/~tilevich/). My Research Topics are Software Engineering and Distributed Systems. Previously, I worked in Robotics Research at KIST as a research engineer and I completed my master degree at POSTECH, studied for multimedia networking.
 
 
 Education
@@ -26,4 +26,5 @@ News
 ---
   - Oct. 2019, One work is submitted to a Conference.
   - Dec. 2019, One work is accepted to SANER 2020.
+  - Dec. 2019, One work is accepted to Journal of Computer Languages.
   
