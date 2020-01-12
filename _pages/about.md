@@ -24,7 +24,7 @@ Employment
 
 News
 ---
-  - Oct. 2019, One work is submitted to a Conference.
-  - Dec. 2019, One work is accepted to SANER 2020.
+  - Oct. 2019, One work is accepted to WWW 2020.
   - Dec. 2019, One work is accepted to Journal of Computer Languages.
+  - Dec. 2019, One work is accepted to SANER 2020.
   
