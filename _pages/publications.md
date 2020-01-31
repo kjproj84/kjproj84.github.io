@@ -8,11 +8,11 @@ author_profile: true
 International Conference Papers
 ---
 
-1. **Kijin An**, "Enhancing Web App Execution with Automated Reengineering," Doctoral Symposium, *Proceedings of the Web Conference 2020 (WWW 2020)*, April 2020
+1. **Kijin An**, "Enhancing Web App Execution with Automated Reengineering," *Proceedings of the Web Conference 2020 (PhD Symposium in WWW 2020)*, April 2020
 2. **Kijin An** and Eli Tilevich, "Client Insourcing: Bringing Ops In-House for Seamless Re-engineering of Full-Stack JavaScript Applications," *Proceedings of the Web Conference 2020 (WWW 2020)*, April 2020, Acceptance rate: 19%.
 3. **Kijin An** and Eli Tilevich, "D-Goldilocks: Automatic Redistribution of Remote Functionalities for Performance and Efficiency," *Proceedings of the 27th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2020)*, February 2020. (21%, 42/199) 
 4. **Kijin An** and Eli Tilevich. “Catch & Release: An Approach to Debugging Distributed Full-Stack JavaScript Applications“, *19th International Conference on Web Engineering (ICWE 2019)*, June 2019. (25%, 26/106)
-5. **Kijin An**, “Facilitating the Evolutionary Modifications in Distributed Apps via Automated Refactoring,” Doctoral Symposium *19th International Conference on Web Engineering (ICWE 2019)*, June 2019. 
+5. **Kijin An**, “Facilitating the Evolutionary Modifications in Distributed Apps via Automated Refactoring,” *19th International Conference on Web Engineering (PhD Symposium in ICWE 2019)*, June 2019. 
 6. Yin Liu, **Kijin An**, and Eli Tilevich, "RT-Trust: Automated Refactoring for Trusted Execution Under Real-Time Constraints," *Proceedings of the 17th International Conference on Generative Programming: Concepts & Experience (GPCE 2018)*, Nov 2018.
 7. **Kijin An**, Na Meng, and Eli Tilevich, "Automatic Inference of Java-to-Swift Translation Rules for Porting Mobile Applications,” *MobileSoft 2018*, Nominated for a best paper award.(6%, 3/52)
 8. **Kijin An**, Geunjae Lee, Sang-Seok Yun, and JongSuk Choi, "Multiple Humans Recognition of Robot Aided by Perception Sensor Network," *In. Proc. Int. Conf. Ubiquitous Robots and Ambient Intelligence (URAI)*, pp. 359-361, Oct. 2015.
