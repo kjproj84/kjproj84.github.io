@@ -9,7 +9,6 @@ International Conference Papers
 ---
 
 1. **Kijin An**, "Enhancing Web App Execution with Automated Reengineering," Doctoral Symposium, *Proceedings of the Web Conference 2020 (WWW 2020)*, April 2020
-1. **Kijin An** and Eli Tilevich, "Client Insourcing: Bringing Ops In-House for Seamless Re-engineering of Full-Stack JavaScript Applications," *Proceedings of the Web Conference 2020 (WWW 2020)*, April 2020, Acceptance rate: 19%.
 2. **Kijin An** and Eli Tilevich, "Client Insourcing: Bringing Ops In-House for Seamless Re-engineering of Full-Stack JavaScript Applications," *Proceedings of the Web Conference 2020 (WWW 2020)*, April 2020, Acceptance rate: 19%.
 3. **Kijin An** and Eli Tilevich, "D-Goldilocks: Automatic Redistribution of Remote Functionalities for Performance and Efficiency," *Proceedings of the 27th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2020)*, February 2020. (21%, 42/199) 
 4. **Kijin An** and Eli Tilevich. “Catch & Release: An Approach to Debugging Distributed Full-Stack JavaScript Applications“, *19th International Conference on Web Engineering (ICWE 2019)*, June 2019. (25%, 26/106)
