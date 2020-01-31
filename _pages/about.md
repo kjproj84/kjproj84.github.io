@@ -24,7 +24,7 @@ Employment
 
 News
 ---
-  - Jan. 2020, A PhD Symposium paper is accepted.
+  - Jan. 2020, A PhD Symposium paper is accepted to WWW 2020.
   - Jan. 2020, A submission to ICDCS 2020.
   - Jan. 2020, One work is accepted to WWW 2020.
   - Dec. 2019, One work is accepted to Journal of Computer Languages.
