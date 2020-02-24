@@ -24,7 +24,7 @@ Employment
 
 News
 ---
-  - Feb. 2020, I attended SANER 2020, London, Canada. See [my slides](./SANER20_D_Goldilocks.pdf).
+  - Feb. 2020, I attended to SANER 2020, London at Canada. See [my slides](./SANER20_D_Goldilocks.pdf).
   - Jan. 2020, A PhD Symposium paper is accepted to WWW 2020.
   - Jan. 2020, A submission to ICDCS 2020.
   - Jan. 2020, One work is accepted to WWW 2020.
