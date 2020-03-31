@@ -24,7 +24,7 @@ Employment
 
 News
 ---
-  - Mar. 2020, One work is submitted to MobiCom 2020.
+  - Mar. 2020, I submitted one work to MobiCom 2020.
   - Mar. 2020, I passed my preliminary exam.
   - Feb. 2020, I attended to SANER 2020, London at Canada. See [my slides](./SANER20_D_Goldilocks.pdf).
   - Jan. 2020, A PhD Symposium paper is accepted to WWW 2020.
