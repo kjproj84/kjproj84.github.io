@@ -19,14 +19,15 @@ Education
 
 Employment
 ---
-  - Commissioned Researcher in Robotics Research, [KIST](https://www.kist.re.kr/kist_web/main/), 2012 ~ 2015
+  - Researcher in Robotics Research, [KIST](https://www.kist.re.kr/kist_web/main/), 2012 ~ 2015
   - Engineer in Access R&D/System Eng Teams, [SK Telesys](http://www.sktelesys.com/eng/), 2009 ~ 2012 (Military Duty)
 
 News
 ---
+  - Mar. 2020, One work is submitted to MobiCom 2020.
+  - Mar. 2020, I passed my preliminary exam.
   - Feb. 2020, I attended to SANER 2020, London at Canada. See [my slides](./SANER20_D_Goldilocks.pdf).
   - Jan. 2020, A PhD Symposium paper is accepted to WWW 2020.
-  - Jan. 2020, A submission to ICDCS 2020.
   - Jan. 2020, One work is accepted to WWW 2020.
   - Dec. 2019, One work is accepted to Journal of Computer Languages.
   - Dec. 2019, One work is accepted to SANER 2020.
