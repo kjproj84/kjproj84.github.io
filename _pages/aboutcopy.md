@@ -17,11 +17,12 @@ Employment
 
 News
 ---
-  - Mar. 2020, I submitted one work to MobiCom 2020.
-  - Mar. 2020, I passed my preliminary exam.
-  - Feb. 2020, I attended to SANER 2020, London at Canada. See [my slides](./SANER20_D_Goldilocks.pdf).
-  - Jan. 2020, A PhD Symposium paper is accepted to WWW 2020.
-  - Jan. 2020, One work is accepted to WWW 2020.
-  - Dec. 2019, One work is accepted to Journal of Computer Languages.
-  - Dec. 2019, One work is accepted to SANER 2020.
+  - April. 2020, I remotely attened the WebConf 2020.
+  - March. 2020, I submitted one work to MobiCom 2020.
+  - March. 2020, I passed my preliminary exam. See [my document](./Kijin_An_Prelim_proposal.pdf).
+  - Feburary. 2020, I attended to SANER 2020, London at Canada. See [my slides](./SANER20_D_Goldilocks.pdf).
+  - January. 2020, A PhD Symposium paper is accepted to the WebConf 2020.
+  - January. 2020, One work is accepted the WebConf 2020.
+  - December. 2019, One work is accepted to Journal of Computer Languages.
+  - December. 2019, One work is accepted to SANER 2020.
   
