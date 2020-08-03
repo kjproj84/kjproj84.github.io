@@ -10,13 +10,6 @@ redirect_from:
 
 I am a Ph.D. student in the Department of Computer Science at Virginia Tech. I am a member of the Software Innovation Lab, advised by [Prof. Eli Tilevich](http://people.cs.vt.edu/~tilevich/). My Research Topics are Software Engineering and Distributed Systems. Previously, I worked in Robotics Research at KIST as a research engineer and I completed my master degree at POSTECH, studied for multimedia networking.
 
-
-Education
----
-  - Ph.D. Student in Computer Science, [Virginia Tech](https://vt.edu/), 2015.8 ~
-  - M.S. in Computer and Communication, [POSTECH](http://www.postech.ac.kr/eng/), 2007 ~ 2009
-  - B.E. in Electrical and Computer Engineering, [University of Seoul](https://uos.ac.kr), 2003 ~ 2007
-
 Employment
 ---
   - Researcher in Robotics Research, [KIST](https://www.kist.re.kr/kist_web/main/), 2012 ~ 2015
