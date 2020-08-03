@@ -12,12 +12,12 @@ I am a Ph.D. student in the Department of Computer Science at Virginia Tech. I a
 
 Employment
 ---
-  - Researcher in Robotics Research, [KIST](https://www.kist.re.kr/kist_web/main/), 2012 ~ 2015
-  - Engineer in Access R&D/System Eng Teams, [SK Telesys](http://www.sktelesys.com/eng/), 2009 ~ 2012 (Military Duty)
+  - Researcher in Robotics Research, [KIST](https://www.kist.re.kr/kist_web/main/), 2012.9 ~ 2015.8
+  - Engineer in Access R&D/System Eng Teams, [SK Telesys](http://www.sktelesys.com/eng/), 2009.4 ~ 2012.9 (Military Duty)
 
 News
 ---
-  - April. 2020, I remotely attened the WebConf 2020.
+  - April. 2020, I remotely attened the WebConf 2020 ([video](https://youtu.be/_9gaiibQ6_A)).
   - March. 2020, I submitted one work to MobiCom 2020.
   - March. 2020, I passed my preliminary exam. See [my document](./Kijin_An_Prelim_proposal.pdf).
   - Feburary. 2020, I attended to SANER 2020, London at Canada. See [my slides](./SANER20_D_Goldilocks.pdf).
