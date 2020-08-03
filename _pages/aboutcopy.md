@@ -17,12 +17,12 @@ Employment
 
 News
 ---
-  - April. 2020, I remotely attened the WebConf 2020 ([video](https://youtu.be/_9gaiibQ6_A)).
+  - April. 2020, I remotely attended [WebConf 2020](https://www2020.thewebconf.org) ([video](https://youtu.be/_9gaiibQ6_A)).
   - March. 2020, I submitted one work to MobiCom 2020.
-  - March. 2020, I passed my preliminary exam. See [my document](./Kijin_An_Prelim_proposal.pdf).
-  - Feburary. 2020, I attended to SANER 2020, London at Canada. See [my slides](./SANER20_D_Goldilocks.pdf).
-  - January. 2020, A PhD Symposium paper is accepted to the WebConf 2020.
-  - January. 2020, One work is accepted the WebConf 2020.
+  - March. 2020, I passed my preliminary exam. See ([document](./Kijin_An_Prelim_proposal.pdf)).
+  - Feburary. 2020, I attended to [SANER 2020](https://saner2020.csd.uwo.ca), London at Canada ([slides](./SANER20_D_Goldilocks.pdf)).
+  - January. 2020, A PhD Symposium paper is accepted to WebConf 2020.
+  - January. 2020, One work is accepted WebConf 2020.
   - December. 2019, One work is accepted to Journal of Computer Languages.
   - December. 2019, One work is accepted to SANER 2020.
   
