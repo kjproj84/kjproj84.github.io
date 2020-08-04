@@ -13,13 +13,13 @@ I am a Ph.D. student in [the Department of Computer Science](https://cs.vt.edu/)
 Employment
 ---
   - Researcher in Robotics Research, [KIST](https://www.kist.re.kr/kist_web/main/), 2012.9 ~ 2015.8 ([project page](http://www.robot-intelligence.kr/index.php/3W_for_HRI))
-  - Engineer in Access R&D/System Eng Teams, [SK Telesys](http://www.sktelesys.com/eng/), 2009.4 ~ 2012.9 (completed Military service)
+  - Engineer in Access R&D/System Eng Teams, [SK telesys](http://www.sktelesys.com/eng/), 2009.4 ~ 2012.9 (completed Military service)
 
 News
 ---
   - April. 2020, I remotely attended [WebConf 2020](https://www2020.thewebconf.org).
   - March. 2020, I submitted one work to MobiCom 2020.
-  - March. 2020, I passed my preliminary exam ([document](./Kijin_An_Prelim_proposal.pdf)).
+  - March. 2020, I passed my preliminary exam, see [my document](./Kijin_An_Prelim_proposal.pdf).
   - Feburary. 2020, I attended to [SANER 2020](https://saner2020.csd.uwo.ca), London at Canada.
   - January. 2020, A PhD Symposium paper is accepted to WebConf 2020.
   - January. 2020, One work is accepted WebConf 2020.
