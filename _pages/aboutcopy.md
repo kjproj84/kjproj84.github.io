@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the [Department of Computer Science](https://cs.vt.edu/) at [Virginia Tech](https://vt.edu/). I am a member of the Software Innovation Lab, advised by [Prof. Eli Tilevich](http://people.cs.vt.edu/~tilevich/). My research topics are Software Engineering and Distributed Systems. Previously, I worked in Robotics Research at KIST and in access R&D team at SK telesys. And I hold my masters degree from [POSTECH](http://postech.ac.kr/eng/), studied for multimedia networking.
+I am a Ph.D. student in the [Department of Computer Science](https://cs.vt.edu/) at [Virginia Tech](https://vt.edu/). I am a member of the Software Innovation Lab, advised by [Prof. Eli Tilevich](http://people.cs.vt.edu/~tilevich/). My research topics are Distributed Systems and Software Engineering. Previously, I worked in Robotics Research at KIST and in access R&D team at SK telesys. And I hold my masters degree from [POSTECH](http://postech.ac.kr/eng/), studied for multimedia networking.
 
 Employment
 ---
@@ -17,12 +17,12 @@ Employment
 
 News
 ---
-  - April. 2020, I remotely attended [WebConf 2020](https://www2020.thewebconf.org).
+  - April. 2020, I remotely attended [the WebConf 2020](https://www2020.thewebconf.org).
   - March. 2020, I submitted one work to MobiCom 2020.
   - March. 2020, I passed my preliminary exam, see [my document](./Kijin_An_Prelim_proposal.pdf).
-  - Feburary. 2020, I attended to [SANER 2020](https://saner2020.csd.uwo.ca), London at Canada.
-  - January. 2020, A PhD Symposium paper is accepted to WebConf 2020.
-  - January. 2020, One work is accepted WebConf 2020.
+  - Feburary. 2020, I attended [SANER 2020](https://saner2020.csd.uwo.ca), London at Canada.
+  - January. 2020, A PhD Symposium paper is accepted to the WebConf 2020.
+  - January. 2020, One work is accepted to the WebConf 2020.
   - December. 2019, our work is accepted to Journal of Computer Languages.
   - December. 2019, One work is accepted to SANER 2020.
 
