@@ -7,7 +7,6 @@ author_profile: true
 
 International Conference Papers
 ---
-
 1. **Kijin An** and Eli Tilevich, "Client Insourcing: Bringing Ops In-House for Seamless Re-engineering of Full-Stack JavaScript Applications," *Proceedings of the Web Conference 2020 (WWW 2020)*, 179-189, April 2020 (**19%, 217/1129**), [video](https://youtu.be/69U5Y6HsAOw), [code](https://github.com/kjproj84/JS-RCI)
 2. **Kijin An**, "Enhancing Web App Execution with Automated Reengineering," *Companion Proceedings of the Web Conference 2020 (PhD Symposium in WWW 2020)*, 274-278, April 2020, [video](https://youtu.be/EvnTicEUkzU)
 3. **Kijin An** and Eli Tilevich, "D-Goldilocks: Automatic Redistribution of Remote Functionalities for Performance and Efficiency," *Proceedings of the 27th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2020)*, 251-260, February 2020 (**21%, 42/199**), [slides](./SANER20_D_Goldilocks.pdf) 
@@ -16,7 +15,6 @@ International Conference Papers
 6. **Kijin An**, "Facilitating the Evolutionary Modifications in Distributed Apps via Automated Refactoring," *19th International Conference on Web Engineering (PhD Symposium in ICWE 2019)*, 548-553, June 2019, [slides](http://web.geni-pco.com/icwe2019/3Facilitating_the_Evolutionary_Modifications_in_Distributed_Apps_via_Automated_Refactoring.pdf)
 7. Yin Liu, **Kijin An**, and Eli Tilevich, "RT-Trust: Automated Refactoring for Trusted Execution Under Real-Time Constraints," *Proceedings of the 17th International Conference on Generative Programming: Concepts & Experience (GPCE 2018)*, 175-187, Nov 2018, (Yin made [slides](https://drive.google.com/file/d/1Ucm3oZg4VfYglxhbplEIFLWWB35yWy80/view) and [poster](https://drive.google.com/file/d/1RO3zCYDZHClDxdlkMyO9zhIsmMEar1sa/view))
 8. **Kijin An**, Na Meng, and Eli Tilevich, "Automatic Inference of Java-to-Swift Translation Rules for Porting Mobile Applications,” *MobileSoft 2018*, 180-190, May 2018 ([**Nominated for a best paper award**](https://www.icse2018.org/details/mobilesoft-2018-papers/6/Automatic-Inference-of-Java-to-Swift-Translation-Rules-for-Porting-Mobile-Application))
-
 (KIST)
 9. **Kijin An**, Geunjae Lee, Sang-Seok Yun, and JongSuk Choi, "Multiple Humans Recognition of Robot Aided by Perception Sensor Network," *In. Proc. Int. Conf. Ubiquitous Robots and Ambient Intelligence (URAI)*, pp. 359-361, Oct. 2015.
 10. Geunjae Lee, **Kijin An**, Sang-Seok Yun, and JongSuk Choi, "A Simultaneous Robot Service Scheme for Multi-Users," *In. Proc. Int. Conf. Ubiquitous Robots and Ambient Intelligence (URAI)*, pp. 373-374, Oct. 2015. (extended abstract)
@@ -28,7 +26,6 @@ International Conference Papers
 16. JiGwan Park, **Kijin An**, and JongSuk Choi, "Realistic 3D simulation of multiple human recognition over Perception Sensor Network," Robot and Human Interactive Communication, *IEEE RO-MAN* 2014.
 17. JiGwan Park, **Kijin An**, Daijin Kim and JongSuk Choi, “Multiple Human Tracking using Multiple Kinects for an Attendance Check System of a Smart Class,” *URAI 2013*. (video presentation)
 18. **Kijin An**, JongSuk Choi, “A 3D Simulation Approach for Multi-human Detection using a Multi-sensor frame,” *IEEE RO- MAN* 2013.
-
 (POSTECH)
 19. Wan Kim, Hyunchul Joo, **Kijin An**, and Hwangjun Song, "A novel packet urgency metric-based cross-layer design for video streaming over multi-rate MANETs," *International Wireless Communication and Mobile Computing (IWCMC)*, 2013.
 20. Wan Kim, Hyunchul Joo, **Kijin An**, Inkyu Lee, and Hwangjun Song, "Urgency-based scheduling and routing algorithms for delay-sensitive data transmission over mobile ad hoc networks,” *ACM/Springer Wireless Networks*, Vol. 19, No. 7, pp. 1595-1609, 2013. (**Journal Article**, Master thesis)
