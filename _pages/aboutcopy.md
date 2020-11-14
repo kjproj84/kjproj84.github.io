@@ -18,7 +18,7 @@ Employment
 
 Research Keywords
 ---
-  - Refactoring/Optimizing Distributed Systems, Software Engineering, Web Engineering, automated Program Transformation, System Security, Networking
+  - Refactoring/Optimizing Distributed Systems, Software Engineering, Web Engineering, automated Program Transformation, Software Security, Networking
 
 News
 ---
@@ -32,7 +32,7 @@ News
   - December. 2019, One work is accepted to SANER 2020.
 
 
-Recent Publications (From 2018~)
+Recent Publications (From 2018 ~)
 ---  
 1. **Kijin An** and Eli Tilevich, "Client Insourcing: Bringing Ops In-House for Seamless Re-engineering of Full-Stack JavaScript Applications," *Proceedings of the Web Conference 2020 (WWW 2020)*, 179-189, April 2020 (**19%, 217/1129**), [video](https://youtu.be/69U5Y6HsAOw), [code](https://github.com/kjproj84/JS-RCI)
 2. **Kijin An**, "Enhancing Web App Execution with Automated Reengineering," *Companion Proceedings of the Web Conference 2020 (PhD Symposium in WWW 2020)*, 274-278, April 2020, [video](https://youtu.be/EvnTicEUkzU)
