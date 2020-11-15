@@ -28,12 +28,7 @@ International Conference/Journal Papers
 19. Wan Kim, Hyunchul Joo, **Kijin An**, and Hwangjun Song, "A novel packet urgency metric-based cross-layer design for video streaming over multi-rate MANETs," *International Wireless Communication and Mobile Computing (IWCMC)*, 2013.
 20. Wan Kim, Hyunchul Joo, **Kijin An**, Inkyu Lee, and Hwangjun Song, "Urgency-based scheduling and routing algorithms for delay-sensitive data transmission over mobile ad hoc networks,” *ACM/Springer Wireless Networks*, Vol. 19, No. 7, pp. 1595-1609, 2013. (**Journal Article**, Master thesis)
 21. Hyunchul Joo, **Kijin An**, and Hwangjun Song, "Urgency-based Packet Scheduling and Routing Algorithms for Video Transmission over MANETs," *IET International Communication Conference on Wireless Mobile (CCWMC)* 2011.
-22. **Kijin An** and Hwangjun Song, "An effective cross-layer packet scheduling and routing algorithm for delay-sensitive media transmission over MANET," *IEEE International Conference on Communications (ICC)* 2009.
-
-Domestic Journal Papers
----
-23. W. Kim, **Kijin An**, H. Joo, G. Lee, J. An, M. Sohn, Y. Mo Yang and H. Song, "Indoor Location Recognition Simulator over UWB Channel," *Journal of KICS*, Vol.35 No. 7, pp. 1058-1065, 2010.
-24. **Kijin An**, H. Joo, H. Song, “Cross-layer based Transmission Scheme for Multimedia Service over Mobile Ad Hoc Network,” *The Journal of Korean Institute of Communications and Information Sciences*, Vol. 34, No.11, pp. 1216-1224, 2009.
+22. W. Kim, **Kijin An**, H. Joo, G. Lee, J. An, M. Sohn, Y. Mo Yang and H. Song, "Indoor Location Recognition Simulator over UWB Channel," *Journal of KICS*, Vol.35 No. 7, pp. 1058-1065, 2010.
+23. **Kijin An**, H. Joo, H. Song, “Cross-layer based Transmission Scheme for Multimedia Service over Mobile Ad Hoc Network,” *The Journal of Korean Institute of Communications and Information Sciences*, Vol. 34, No.11, pp. 1216-1224, 2009.
+24. **Kijin An** and Hwangjun Song, "An effective cross-layer packet scheduling and routing algorithm for delay-sensitive media transmission over MANET," *IEEE International Conference on Communications (ICC)* 2009.
 25. **Kijin An**, H. Joo, H.R. Oh, Y.D. Kim, Y.M. Yang, H. Song," Design and Implementation of Sensor Network Actors Supporting Ptolemy Tool," *Journal of the Korea society for simulation*, Vol. 17, No. 4, pp.1-10, 2008.
-
-
