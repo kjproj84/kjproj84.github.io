@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the [Department of Computer Science](https://cs.vt.edu/) at [Virginia Tech](https://vt.edu/). I am a member of the Software Innovation Lab, advised by [Prof. Eli Tilevich](http://people.cs.vt.edu/~tilevich/). My research topics are Distributed Systems and Software Engineering. Previously, I worked in Robotics Research at KIST and in access R&D team at SK telesys. And I hold my masters degree from [POSTECH](http://postech.ac.kr/eng/).
+I am a Ph.D. student in the [Department of Computer Science](https://cs.vt.edu/) at [Virginia Tech](https://vt.edu/). I am a member of the Software Innovations Lab, advised by [Prof. Eli Tilevich](http://people.cs.vt.edu/~tilevich/). My research topics are Distributed Systems and Software Engineering. Previously, I worked in Robotics Research at KIST and in access R&D team at SK telesys. And I hold my masters degree from [POSTECH](http://postech.ac.kr/eng/).
 
 
 Employment
@@ -22,7 +22,7 @@ Research Keywords
 
 News
 ---
-  - November. 2020, Our paper RT-Trust is nominated for a Best Paper Award at *Journal of Computer Languages (COLA)*.
+  - November. 2020, Our paper RT-Trust is nominated for a **Best Paper Award** at *Journal of Computer Languages (COLA)*.
   - April. 2020, I remotely attended [the WebConf 2020](https://www2020.thewebconf.org).
   - March. 2020, I passed my preliminary exam, see [my document](./Kijin_An_Prelim_proposal.pdf).
   - Feburary. 2020, I attended [SANER 2020](https://saner2020.csd.uwo.ca), London at Canada.
