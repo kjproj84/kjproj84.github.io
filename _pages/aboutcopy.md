@@ -23,6 +23,7 @@ News
 - Feburary 2020. I attended [SANER 2020](https://saner2020.csd.uwo.ca), London at Canada.
 
 <details>
+- <summary>Old News</summary>
 <ul>
 <li>January 2020. A PhD Symposium paper is accepted to the WebConf 2020.</li>
 <li>January 2020. One work is accepted to the WebConf 2020.</li>
