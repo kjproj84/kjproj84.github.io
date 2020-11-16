@@ -8,15 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the [Department of Computer Science](https://cs.vt.edu/) at [Virginia Tech](https://vt.edu/). I am a member of the Software Innovations Lab, advised by [Prof. Eli Tilevich](http://people.cs.vt.edu/~tilevich/). My research topics are Distributed Systems and Software Engineering. Previously, I worked in Robotics Research at KIST and in access R&D team at SK telesys. And I hold my masters degree from [POSTECH](http://postech.ac.kr/eng/).
+I am a Ph.D. student in the [Department of Computer Science](https://cs.vt.edu/) at [Virginia Tech](https://vt.edu/). I am a member of the Software Innovations Lab, advised by [Prof. Eli Tilevich](http://people.cs.vt.edu/~tilevich/). My research interests are Systems end of Software Engineering. Previously, I worked in Robotics Research at [KIST](https://www.kist.re.kr/kist_web/main/) and access R&D team at [SK telesys](http://www.sktelesys.com/eng/). And I hold my masters degree from [POSTECH](http://postech.ac.kr/eng/).
 
-
-Employment
----
-  - Researcher in Robotics Research, [KIST](https://www.kist.re.kr/kist_web/main/), 2012.9 ~ 2015.8 ([project page](http://www.robot-intelligence.kr/index.php/3W_for_HRI))
-  - Engineer in Access R&D/System Eng Teams, [SK telesys](http://www.sktelesys.com/eng/), 2009.4 ~ 2012.9 (completed Military service)
-
-Research Keywords
+Research Interests
 ---
   - Refactoring/Optimizing Distributed Systems, Software Engineering, Web Engineering, automated Program Transformation, Software Security, Networking
 
@@ -26,10 +20,14 @@ News
   - April. 2020, I remotely attended [the WebConf 2020](https://www2020.thewebconf.org).
   - March. 2020, I passed my preliminary exam, see [my document](./Kijin_An_Prelim_proposal.pdf).
   - Feburary. 2020, I attended [SANER 2020](https://saner2020.csd.uwo.ca), London at Canada.
+  <details>
+  <summary>Old News</summary>
+  
   - January. 2020, A PhD Symposium paper is accepted to the WebConf 2020.
   - January. 2020, One work is accepted to the WebConf 2020.
   - December. 2019, our work is accepted to Journal of Computer Languages.
   - December. 2019, One work is accepted to SANER 2020.
+  </details>
 
 Recent Publications (From 2018 ~)
 ---  
