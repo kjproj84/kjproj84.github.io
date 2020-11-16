@@ -14,6 +14,18 @@ Research Interests
 ---
   - Refactoring/Optimizing Distributed Systems, Software Engineering, Web Engineering, automated Program Transformation, Software Security, Networking
 
+
+# A collapsible section with markdown
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
 News
 ---
 > *November 2020* Our paper RT-Trust is nominated for a **Best Paper Award** at *Journal of Computer Languages (COLA)*.\
