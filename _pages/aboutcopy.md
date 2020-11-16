@@ -20,14 +20,16 @@ News
   - April. 2020, I remotely attended [the WebConf 2020](https://www2020.thewebconf.org).
   - March. 2020, I passed my preliminary exam, see [my document](./Kijin_An_Prelim_proposal.pdf).
   - Feburary. 2020, I attended [SANER 2020](https://saner2020.csd.uwo.ca), London at Canada.
-  <details> <summary>Old News</summary>
   
+  <details> <summary>Old News</summary>
   
   - January. 2020, A PhD Symposium paper is accepted to the WebConf 2020.
   - January. 2020, One work is accepted to the WebConf 2020.
   - December. 2019, our work is accepted to Journal of Computer Languages.
   - December. 2019, One work is accepted to SANER 2020.
+  
   </details>
+
 
 Recent Publications (From 2018 ~)
 ---  
