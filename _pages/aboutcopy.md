@@ -37,7 +37,7 @@ News
 
 Recent Publications (From 2018 ~)
 ---  
-1. **Kijin An** and Eli Tilevich, "Client Insourcing: Bringing Ops In-House for Seamless Re-engineering of Full-Stack JavaScript Applications," *Proceedings of the Web Conference 2020 (WWW 2020)*, 179-189, April 2020 (**19%, 217/1129**), [video](https://youtu.be/69U5Y6HsAOw), [code](https://github.com/kjproj84/JS-RCI)
+1. [Research Paper](){:.btn} **Kijin An** and Eli Tilevich, "Client Insourcing: Bringing Ops In-House for Seamless Re-engineering of Full-Stack JavaScript Applications," *Proceedings of the Web Conference 2020 (WWW 2020)*, 179-189, April 2020 (**19%, 217/1129**), [video](https://youtu.be/69U5Y6HsAOw), [code](https://github.com/kjproj84/JS-RCI)
 2. **Kijin An**, "Enhancing Web App Execution with Automated Reengineering," *Companion Proceedings of the Web Conference 2020 (PhD Symposium in WWW 2020)*, 274-278, April 2020, [video](https://youtu.be/EvnTicEUkzU)
 3. **Kijin An** and Eli Tilevich, "D-Goldilocks: Automatic Redistribution of Remote Functionalities for Performance and Efficiency," *Proceedings of the 27th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2020)*, 251-260, February 2020 (**21%, 42/199**), [slides](./SANER20_D_Goldilocks.pdf) 
 4. Yin Liu, **Kijin An**, and Eli Tilevich,  "RT-Trust: Automated Refactoring for Different Trusted Execution Environments under Real-Time Constraints," *Journal of Computer Languages (COLA)*, Volume 56, 100939, 2020. **Nominated for a best paper award**
