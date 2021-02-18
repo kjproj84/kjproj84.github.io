@@ -12,7 +12,7 @@ I am a Ph.D. student in the [Department of Computer Science](https://cs.vt.edu/)
 
 Research Interests
 ---
-- Refactoring/Optimizing Distributed Systems, Software Engineering, Web Engineering, automated Program Transformation, Software Security, Networking
+- Refactoring/Optimizing Distributed Systems, Software Engineering, Web-based Systems, Automated Program Transformation, Software Security, Networking
 
 <details>
 <summary>Details</summary>
@@ -25,14 +25,14 @@ News
 - Feburary 2021. One work is accepted to ICWE 2021!
 - November 2020. Our paper RT-Trust is nominated for a **Best Paper Award** at *Journal of Computer Languages (COLA)*
 - April 2020. I remotely attended [the WebConf 2020](https://www2020.thewebconf.org).
-- March 2020. I passed my preliminary exam, see [my document](./Kijin_An_Prelim_proposal.pdf)
-- Feburary 2020. I attended [SANER 2020](https://saner2020.csd.uwo.ca), London at Canada.
 
 <details>
 <summary>Old News</summary>
 <ul>
-<li>January 2020. A PhD Symposium paper is accepted to the WebConf 2020</li>
-<li>January 2020. One work is accepted to the WebConf 2020!!</li>
+<li>March 2020. I passed my preliminary exam. see [my document](./Kijin_An_Prelim_proposal.pdf)</li>
+<li>Feburary 2020. I attended [SANER 2020](https://saner2020.csd.uwo.ca), London at Canada.</li>
+<li>January 2020. A PhD Symposium paper is accepted to the WebConf 2020.</li>
+<li>January 2020. One work is accepted to the WebConf 2020!</li>
 <li>December 2019. Our work is accepted to Journal of Computer Languages.</li>
 <li>December 2019. One work is accepted to SANER 2020!</li>
 </ul>
