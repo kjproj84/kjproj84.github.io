@@ -15,7 +15,7 @@ Research Interests
 - Refactoring/Optimizing Distributed Systems, Software Engineering, Web-based Systems, Automated Program Transformation, Software Security, Networking
 
 <details>
-<summary>Details</summary>
+<summary style='margin-left:0in;color#088A85'><u>Details</u></summary>
 My research is to facilitate the evolutionary modifications of distributed apps via automatic and architectural refactorings. My work enables localizing bugs in distributed apps, optimizing distribution granularity, and safely replicating cloud services for edge-based or centralized computing. My approach improves software engineering’s latest ideas such as declarative program analysis, fuzzing/checkpointing execution, sandboxing, and program transformation.
 </details>
 
@@ -25,10 +25,10 @@ News
 - Feburary 2021. One work is accepted to ICWE 2021!
 - November 2020. Our paper RT-Trust is nominated for a **Best Paper Award** at *Journal of Computer Languages (COLA)*
 - April 2020. I remotely attended [the WebConf 2020](https://www2020.thewebconf.org).
-- March 2020. I passed my preliminary exam. see [my document](./Kijin_An_Prelim_proposal.pdf)
 <details>
-<summary>Old News</summary>
+<summary style='margin-left:0in;color#088A85'>Old News</summary>
 <ul>
+<li>March 2020. I passed my preliminary exam. See <a href="https://kjproj84.github.io/Kijin_An_Prelim_proposal.pdf>my document</a>.</li>
 <li>Feburary 2020. I attended SANER 2020, London at Canada.</li>
 <li>January 2020. A PhD Symposium paper is accepted to WebConf 2020.</li>
 <li>January 2020. One work is accepted to WebConf 2020!</li>
