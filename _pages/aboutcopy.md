@@ -28,7 +28,7 @@ News
 <details>
 <summary style='margin-left:0in;color#088A85'>Old News</summary>
 <ul>
-<li>March 2020. I passed my preliminary exam. See <a href="https://kjproj84.github.io/Kijin_An_Prelim_proposal.pdf>my document</a>.</li>
+<li>March 2020. I passed my preliminary exam. See <a href="https://kjproj84.github.io/Kijin_An_Prelim_proposal.pdf">my document</a>.</li>
 <li>Feburary 2020. I attended SANER 2020, London at Canada.</li>
 <li>January 2020. A PhD Symposium paper is accepted to WebConf 2020.</li>
 <li>January 2020. One work is accepted to WebConf 2020!</li>
