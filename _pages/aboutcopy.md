@@ -15,10 +15,11 @@ Research Interests
 - Refactoring/Optimizing Distributed Systems, Software Engineering, Web-based Systems, Automated Program Transformation, Software Security, Networking
 
 <details>
+<ul>
 <summary style='margin-left:0in;color#088A85'><u>Details</u></summary>
 My research is to facilitate the evolutionary modifications of distributed apps via automatic and architectural refactorings. My work enables localizing bugs in distributed apps, optimizing distribution granularity, and safely replicating cloud services for edge-based or centralized computing. My approach improves software engineering’s latest ideas such as declarative program analysis, fuzzing/checkpointing execution, sandboxing, and program transformation.
 </details>
-
+</ul>
 
 News
 ---
