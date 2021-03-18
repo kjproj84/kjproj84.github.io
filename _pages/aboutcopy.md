@@ -21,6 +21,7 @@ Research Interests
 <li>
 My dissertation is to facilitate the evolutionary modifications of distributed apps via automatic and architectural refactoring transformations. ​ I found that programmers with our tools can efficiently and automatically fix bugs, optimize their distribution granularity in full-stack apps, reducing the price of code protection, and safely replicate cloud services for centralized/edge-based computing. ​ My approach improves software engineering’s latest ideas such as declarative program analysis, fuzzing/checkpointing execution, and program transformation. My dissertation idea was published in ​ theWebConf 2020 and presented in two Doctoral Symposiums. And two of other papers were nominated for the best paper awards.
 </li>
+</ul>
 </details>
 
 
