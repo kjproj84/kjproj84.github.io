@@ -12,7 +12,7 @@ I am a Ph.D. student in the [Department of Computer Science](https://cs.vt.edu/)
 
 Research Interests
 ---
-- Refactoring/Optimizing Distributed Systems, Software Engineering, Web-based Systems, Automated Program Transformation, Software Security, Networking
+- Refactoring/Optimizing Distributed Systems, Software Engineering, Web-based Systems, Apps of Machine learning, Software Security, Networking
 - [Research Statement](./Kijin_An_Research_Statement.pdf)
 - [Prelim Exam Document](./Kijin_An_Prelim_proposal.pdf)
 <details>
