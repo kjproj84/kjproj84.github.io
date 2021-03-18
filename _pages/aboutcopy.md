@@ -13,16 +13,14 @@ I am a Ph.D. student in the [Department of Computer Science](https://cs.vt.edu/)
 Research Interests
 ---
 - Refactoring/Optimizing Distributed Systems, Software Engineering, Web-based Systems, Automated Program Transformation, Software Security, Networking
-
+- [Research Statement](./Kijin_An_Research_Statement.pdf)
+- [Prelim Exam Document](./Kijin_An_Prelim_proposal.pdf)
 <details>
 <summary style='margin-left:0in;color#088A85'>Details</summary>
 <ul>
 <li>
 My dissertation is to facilitate the evolutionary modifications of distributed apps via automatic and architectural refactoring transformations. ​ I found that programmers with our tools can efficiently and automatically fix bugs, optimize their distribution granularity in full-stack apps, reducing the price of code protection, and safely replicate cloud services for centralized/edge-based computing. ​ My approach improves software engineering’s latest ideas such as declarative program analysis, fuzzing/checkpointing execution, and program transformation. My dissertation idea was published in ​ theWebConf 2020 and presented in two Doctoral Symposiums. And two of other papers were nominated for the best paper awards.
 </li>
-<li><a href="https://kjproj84.github.io/Kijin_An_Research_Statement.pdf">Research Statement</a>.</li>
-<li><a href="https://kjproj84.github.io/Kijin_An_Prelim_proposal.pdf">Prelim Exam Document</a>.</li>
-</ul>
 </details>
 
 
