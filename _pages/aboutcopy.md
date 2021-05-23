@@ -19,7 +19,7 @@ Research Interests
 <summary style='margin-left:0in;color#088A85'>Details</summary>
 <ul>
 <li>
-My dissertation is to facilitate the evolutionary modifications of distributed apps via automatic and architectural refactoring transformations. ​ I found that programmers with our tools can efficiently and automatically fix bugs, optimize their distribution granularity in full-stack apps, reducing the price of code protection, and safely replicate cloud services for centralized/edge-based computing. ​ My approach improves software engineering’s latest ideas such as declarative program analysis, fuzzing/checkpointing execution, and program transformation. My dissertation idea was published in ​ theWebConf 2020 and presented in two Doctoral Symposiums. And two of other papers were nominated for the best paper awards.
+My research proposed a new refactoring to create a centralized variant of distributed apps to facilitate re-engineering of distributed apps/cloud services. My idea solved none-trivial tasks for evolving distributed apps: localizing bugs, optimizing distribution granularity, and replicating a subset of distributed apps into different machines for enabling edge-based/centralized computing. (related to Serverless computing). My approach improves software engineering’s latest ideas such as declarative program analysis with z3 engine, fuzzing/checkpointing web execution, and replication in distributed systems. My dissertation idea was published in ​theWebConf 2020 and presented in two Doctoral Symposiums. And two of other papers were nominated for the best paper awards.
 </li>
 </ul>
 </details>
@@ -27,6 +27,8 @@ My dissertation is to facilitate the evolutionary modifications of distributed a
 
 News
 ---
+- May 2021. I submitted one work to Middlware 2021.
+- May 2021. I remotely attended to ICWE 2021 as a presenter. [video](https://kjproj84.github.io/ICWE2021_KIJIN_AN.mp4)
 - Feburary 2021. One work is accepted to ICWE 2021!
 - November 2020. Our paper RT-Trust is nominated for a **Best Paper Award** at *Journal of Computer Languages (COLA)*
 - April 2020. I remotely attended [theWebConf 2020](https://www2020.thewebconf.org).
@@ -47,7 +49,7 @@ News
 
 Recent Publications (From 2018 ~)
 ---  
-1. [Full Paper](){:.btn} **Kijin An** and Eli Tilevich, "Communicating Web Vessels: Improving the Responsiveness of Mobile Web Apps with Adaptive Redistribution," accepted to *21th International Conference on Web Engineering (ICWE 2021)* (**22%, 25/118**). [pdf](./ICWE_2021_paper_Kijin.pdf)
+1. [Full Paper](){:.btn} **Kijin An** and Eli Tilevich, "Communicating Web Vessels: Improving the Responsiveness of Mobile Web Apps with Adaptive Redistribution," accepted to *21th International Conference on Web Engineering (ICWE 2021)* (**17%, 22/128**). [pdf](./ICWE_2021_paper_Kijin.pdf), [video](https://kjproj84.github.io/ICWE2021_KIJIN_AN.mp4)
 1. [Full Paper](){:.btn} **Kijin An** and Eli Tilevich, "Client Insourcing: Bringing Ops In-House for Seamless Re-engineering of Full-Stack JavaScript Applications," *Proceedings of the Web Conference 2020 (WWW 2020)*, 179-189, April 2020 (**19%, 217/1129**). [pdf](https://people.cs.vt.edu/~tilevich/papers/Client_Insourcing_WebConf2020.pdf), [video](https://youtu.be/69U5Y6HsAOw), [code](https://github.com/kjproj84/JS-RCI)
 2. **Kijin An**, "Enhancing Web App Execution with Automated Reengineering," *Companion Proceedings of the Web Conference 2020 (PhD Symposium in WWW 2020)*, 274-278, April 2020. [video](https://youtu.be/EvnTicEUkzU)
 3. [Full Paper](){:.btn} **Kijin An** and Eli Tilevich, "D-Goldilocks: Automatic Redistribution of Remote Functionalities for Performance and Efficiency," *Proceedings of the 27th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2020)*, 251-260, February 2020 (**21%, 42/199**). [pdf](https://people.cs.vt.edu/~tilevich/papers/SANER2020.pdf), [slides](./SANER20_D_Goldilocks.pdf) 
