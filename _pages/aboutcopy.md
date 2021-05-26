@@ -27,11 +27,12 @@ My research proposed a new refactoring to create a centralized variant of distri
 
 News
 ---
-- May 2021. I submitted one work to Middlware 2021.
-- May 2021. I remotely attended to ICWE 2021 as a presenter. [video](https://kjproj84.github.io/ICWE2021_KIJIN_AN.mp4)
+- May 2021. I received [the Best Paper Award](./ICWE2021_BestPaper_Award_Kijin.pdf) at the ICWE 2021!
+- May 2021. I submitted one work to [Middleware 2021](https://middleware-conf.github.io/2021/).
+- May 2021. I remotely attended to [ICWE 2021](https://icwe2021.webengineering.org/) as a presenter. [video](https://kjproj84.github.io/ICWE2021_KIJIN_AN.mp4)
 - Feburary 2021. One work is accepted to ICWE 2021!
 - November 2020. Our paper RT-Trust is nominated for a **Best Paper Award** at *Journal of Computer Languages (COLA)*
-- April 2020. I remotely attended [theWebConf 2020](https://www2020.thewebconf.org).
+- April 2020. I remotely attended to [theWebConf 2020](https://www2020.thewebconf.org).
 <details>
 <summary style='margin-left:0in;color#088A85'>Old News</summary>
 <ul>
