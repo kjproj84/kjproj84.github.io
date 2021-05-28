@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I recently completed my Ph.D. in the [Department of Computer Science](https://cs.vt.edu/) at [Virginia Tech](https://vt.edu/). I was a member of the Software Innovations Lab, advised by [Prof. Eli Tilevich](http://people.cs.vt.edu/~tilevich/). My research interests are Systems end of Software Engineering. Previously, I worked in Robotics Research at [KIST](https://www.kist.re.kr/kist_web/main/) and access R&D team at [SK telesys](http://www.sktelesys.com/eng/). And I hold my masters degree from [POSTECH](http://postech.ac.kr/eng/).
+I am a Ph.D. student in the [Department of Computer Science](https://cs.vt.edu/) at [Virginia Tech](https://vt.edu/). I am a member of the Software Innovations Lab, advised by [Prof. Eli Tilevich](http://people.cs.vt.edu/~tilevich/). My research interests are Systems end of Software Engineering. Previously, I worked in Robotics Research at [KIST](https://www.kist.re.kr/kist_web/main/) and access R&D team at [SK telesys](http://www.sktelesys.com/eng/). And I hold my masters degree from [POSTECH](http://postech.ac.kr/eng/).
 
 Research Interests
 ---
