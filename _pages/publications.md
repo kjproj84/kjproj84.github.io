@@ -19,13 +19,13 @@ author_profile: true
 12. **Kijin An**, Hyeon-woo Park and JongSuk Choi, “Reliable Fusion method of multiple Human information over a Heterogeneous Sensor Network,” *IEEE RO-MAN 2015*.
 13. Anh Vu Le, **Kijin An** and JongSuk Choi, “Group-based multiple people tracking in perception sensor network,” *IEEE RO-MAN* 2015.
 14. JiGwan Park, **Kijin An**, and JongSuk Choi, "Low-Body-Part Detection using RGB-D camera." *Proceedings of the Tenth Annual ACM/IEEE International Conference on Human-Robot Interaction* Extended Abstracts. ACM, 2015. 
-<iframe width="280" height="160" src="https://youtu.be/Fg4fI0PD0ns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fg4fI0PD0ns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 15. [Full Paper](){: .btn .btn-purple } **Kijin An**, JiGwan Park, Minh Do Hoang and JongSuk Choi, “Dispensing Materials of mobile Robot cooperating with Perception Sensor Network,” *URAI 2014*.
 16. JiGwan Park, **Kijin An**, Daijin Kim and JongSuk Choi, “Multiple Human Tracking using Multiple Kinects for an Attendance Check System of a Smart Class,” *URAI 2013*. (video paper)
 17. [Full Paper](){: .btn .btn-purple } JiGwan Park, **Kijin An**, and JongSuk Choi, "Realistic 3D simulation of multiple human recognition over Perception Sensor Network," Robot and Human Interactive Communication, *IEEE RO-MAN* 2014. 
 18. [Full Paper](){: .btn .btn-purple } **Kijin An**, JongSuk Choi, “A 3D Simulation Approach for Multi-human Detection using a Multi-sensor frame,” *IEEE RO- MAN* 2013.
-<iframe width="280" height="160" src="https://youtu.be/DNClrSYuss8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DNClrSYuss8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 19. [Full Paper](){: .btn .btn-purple } Wan Kim, Hyunchul Joo, **Kijin An**, and Hwangjun Song, "A novel packet urgency metric-based cross-layer design for video streaming over multi-rate MANETs," *International Wireless Communication and Mobile Computing (IWCMC)*, 2013.
 20. [Journal](){:.btn} Wan Kim, Hyunchul Joo, **Kijin An**, Inkyu Lee, and Hwangjun Song, "Urgency-based scheduling and routing algorithms for delay-sensitive data transmission over mobile ad hoc networks,” *ACM/Springer Wireless Networks*, Vol. 19, No. 7, pp. 1595-1609, 2013. (Master thesis)
 21. [Full Paper](){: .btn .btn-purple } Hyunchul Joo, **Kijin An**, and Hwangjun Song, "Urgency-based Packet Scheduling and Routing Algorithms for Video Transmission over MANETs," *IET International Communication Conference on Wireless Mobile (CCWMC)* 2011.
