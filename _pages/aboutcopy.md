@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the [Department of Computer Science](https://cs.vt.edu/) at [Virginia Tech](https://vt.edu/). I am a member of the Software Innovations Lab, advised by [Prof. Eli Tilevich](http://people.cs.vt.edu/~tilevich/). My research interests are Systems end of Software Engineering. Previously, I worked in Robotics Research at [KIST](https://www.kist.re.kr/kist_web/main/) and access R&D team at [SK telesys](http://www.sktelesys.com/eng/). And I hold my masters degree from [POSTECH](http://postech.ac.kr/eng/).
+I received Ph.D. degree in the [Department of Computer Science](https://cs.vt.edu/) at [Virginia Tech](https://vt.edu/). I was a member of the Software Innovations Lab, advised by [Prof. Eli Tilevich](http://people.cs.vt.edu/~tilevich/). My research interests are Systems end of Software Engineering. Previously, I worked in Robotics Research at [KIST](https://www.kist.re.kr/kist_web/main/) and access R&D team at [SK telesys](http://www.sktelesys.com/eng/). And I hold my masters degree from [POSTECH](http://postech.ac.kr/eng/).
 
 Research Interests
 ---
@@ -27,7 +27,7 @@ My research proposed a new refactoring to create a centralized variant of distri
 
 News
 ---
-- May 2021. I received [the Best Paper Award🏆](./ICWE2021_BestPaper_Award_Kijin.pdf) at the ICWE 2021!. [post](https://www.linkedin.com/posts/vt-cs_congratulations-to-phd-alumnus-kijin-an-and-activity-6803671032625434624-OGDH/)
+- May 2021. I received [the Best Paper Award](./ICWE2021_BestPaper_Award_Kijin.pdf)🏆 at the ICWE 2021!. [news](https://www.linkedin.com/posts/vt-cs_congratulations-to-phd-alumnus-kijin-an-and-activity-6803671032625434624-OGDH/)
 - May 2021. I remotely attended to [ICWE 2021](https://icwe2021.webengineering.org/) as a presenter. [video](https://kjproj84.github.io/ICWE2021_KIJIN_AN.mp4)
 - Feburary 2021. One work is accepted to ICWE 2021!
 - November 2020. Our paper RT-Trust is nominated for a **Best Paper Award** at *Journal of Computer Languages (COLA)*
