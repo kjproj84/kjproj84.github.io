@@ -14,24 +14,6 @@ author_profile: true
 7. [Full Paper](){: .btn .btn-purple } Yin Liu, **Kijin An**, and Eli Tilevich, "RT-Trust: Automated Refactoring for Trusted Execution Under Real-Time Constraints," *Proceedings of the 17th International Conference on Generative Programming: Concepts & Experience (GPCE 2018)*, 175-187, Nov 2018. [pdf](https://people.cs.vt.edu/~tilevich/papers/cpi-gpce.pdf) (Yin made [slides](https://drive.google.com/file/d/1Ucm3oZg4VfYglxhbplEIFLWWB35yWy80/view) and [poster](https://drive.google.com/file/d/1RO3zCYDZHClDxdlkMyO9zhIsmMEar1sa/view))
 8. [Full Paper](){: .btn .btn-purple } **Kijin An**, Na Meng, and Eli Tilevich, "Automatic Inference of Java-to-Swift Translation Rules for Porting Mobile Applications,” *MobileSoft 2018*, 180-190, May 2018. [pdf](https://people.cs.vt.edu/~tilevich/papers/inference-translation-mobilesoft2018.pdf), [**Nominated for the Best Paper Award**](https://www.icse2018.org/details/mobilesoft-2018-papers/6/Automatic-Inference-of-Java-to-Swift-Translation-Rules-for-Porting-Mobile-Application)
 9. **Kijin An**, Geunjae Lee, Sang-Seok Yun, and JongSuk Choi, "Multiple Humans Recognition of Robot Aided by Perception Sensor Network," *In. Proc. Int. Conf. Ubiquitous Robots and Ambient Intelligence (URAI)*, pp. 359-361, Oct. 2015.
-<div class="container">
-  <br>
-  <br>
-<div class="row">
-
-    
-    <div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/KYyQCNzH99I?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-  </div>
-    
-    <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Fg4fI0PD0ns?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-  </div>
-</div>
-</div>
-
 10. Geunjae Lee, **Kijin An**, Sang-Seok Yun, and JongSuk Choi, "A Simultaneous Robot Service Scheme for Multi-Users," *In. Proc. Int. Conf. Ubiquitous Robots and Ambient Intelligence (URAI)*, pp. 373-374, Oct. 2015.
 11. Anh Vu Le, **Kijin An** and JongSuk Choi, “Multiple human tracking on robot operation system,” *In. Proc. Int. Conf. Ubiquitous Robots and Ambient Intelligence (URAI)*, Oct. 2015.
 12. **Kijin An**, Hyeon-woo Park and JongSuk Choi, “Reliable Fusion method of multiple Human information over a Heterogeneous Sensor Network,” *IEEE RO-MAN 2015*.
