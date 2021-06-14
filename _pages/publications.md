@@ -21,25 +21,20 @@ author_profile: true
 * **Kijin An**, Hyeon-woo Park and JongSuk Choi, “Reliable Fusion method of multiple Human information over a Heterogeneous Sensor Network,” *IEEE RO-MAN 2015*.
 * Anh Vu Le, **Kijin An** and JongSuk Choi, “Group-based multiple people tracking in perception sensor network,” *IEEE RO-MAN* 2015.
 * JiGwan Park, **Kijin An**, and JongSuk Choi, "Low-Body-Part Detection using RGB-D camera." *Proceedings of the Tenth Annual ACM/IEEE International Conference on Human-Robot Interaction* Extended Abstracts. ACM, 2015. 
-
-<div class="w3-content w3-margin-top" style="max-width:1200px;">
-  <div class="w3-row-padding">
-   	  <div class="container w3-margin-bottom">
-		<div class="container">
-	<iframe width="432" height="243" src="https://www.youtube.com/embed/Fg4fI0PD0ns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-		</div>
-	   </div>
-
-  </div>
-</div>
 * [Full Paper](){: .btn .btn-purple } **Kijin An**, JiGwan Park, Minh Do Hoang and JongSuk Choi, “Dispensing Materials of mobile Robot cooperating with Perception Sensor Network,” *URAI 2014*.
 JiGwan Park, **Kijin An**, Daijin Kim and JongSuk Choi, “Multiple Human Tracking using Multiple Kinects for an Attendance Check System of a Smart Class,” *URAI 2013*. (video paper)
 * [Full Paper](){: .btn .btn-purple } JiGwan Park, **Kijin An**, and JongSuk Choi, "Realistic 3D simulation of multiple human recognition over Perception Sensor Network," Robot and Human Interactive Communication, *IEEE RO-MAN* 2014.
 * [Full Paper](){: .btn .btn-purple } **Kijin An**, JongSuk Choi, “A 3D Simulation Approach for Multi-human Detection using a Multi-sensor frame,” *IEEE RO- MAN* 2013. 
-
-<div class="container w3-margin-bottom">
+<table>
+<tr>
+<td width="50%">
+<iframe width="432" height="243" src="https://www.youtube.com/embed/Fg4fI0PD0ns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</td>
+<td width="50%">
 <iframe width="432" height="243" src="https://www.youtube.com/embed/DNClrSYuss8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+</td>
+</tr>
+</table>
 
 <h3>Multimedia Networking Lab in POSTECH</h3>
 * [Full Paper](){: .btn .btn-purple } Wan Kim, Hyunchul Joo, **Kijin An**, and Hwangjun Song, "A novel packet urgency metric-based cross-layer design for video streaming over multi-rate MANETs," *International Wireless Communication and Mobile Computing (IWCMC)*, 2013.
