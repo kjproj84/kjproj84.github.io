@@ -43,9 +43,9 @@ author_profile: true
 * [Full Paper](){: .btn .btn-purple } Hyunchul Joo, **Kijin An**, and Hwangjun Song, "Urgency-based Packet Scheduling and Routing Algorithms for Video Transmission over MANETs," *IET International Communication Conference on Wireless Mobile (CCWMC)* 2011.
 * [Domestic Journal](){:.btn} **Kijin An**, H. Joo, H. Song, “Cross-layer based Transmission Scheme for Multimedia Service over Mobile Ad Hoc Network,” *The Journal of Korean Institute of Communications and Information Sciences*, Vol. 34, No.11, pp. 1216-1224, 2009.
 * [Full Paper](){: .btn .btn-purple } **Kijin An** and Hwangjun Song, "An effective cross-layer packet scheduling and routing algorithm for delay-sensitive media transmission over MANET," *IEEE International Conference on Communications (ICC)* 2009. (**34.9%, 1046/3000**)
-<img src="../images/cross.png" alt="drawing" width="900"/>
+<img src="../images/cross.png" alt="drawing" width="800"/>
 * [Domestic Journal](){:.btn} W. Kim, **Kijin An**, H. Joo, G. Lee, J. An, M. Sohn, Y. Mo Yang and H. Song, "Indoor Location Recognition Simulator over UWB Channel," *Journal of KICS*, Vol.35 No. 7, pp. 1058-1065, 2010.
 * [Domestic Journal](){:.btn} **Kijin An**, H. Joo, H.R. Oh, Y.D. Kim, Y.M. Yang, H. Song," Design and Implementation of Sensor Network Actors Supporting Ptolemy Tool," *Journal of the Korea society for simulation*, Vol. 17, No. 4, pp.1-10, 2008.
-![title](../images/ptolemy.png)
+<img src="../images/ptolemy.png" alt="drawing" width="900"/>
 
 
