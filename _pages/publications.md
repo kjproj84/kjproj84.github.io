@@ -4,7 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<h3>Software Innovations Lab in CS@VT</h3>
+
+Software Innovations Lab in CS@VT
+---
 * [Full Paper](){: .btn .btn-purple } **Kijin An** and Eli Tilevich, "Communicating Web Vessels: Improving the Responsiveness of Mobile Web Apps with Adaptive Redistribution," accepted to *21th International Conference on Web Engineering (ICWE 2021)* (**17%, 22/128**). [pdf](../ICWE_2021_paper_Kijin.pdf), [video](https://kjproj84.github.io/ICWE2021_KIJIN_AN.mp4), **Best Paper Award🏆**
 * [Full Paper](){: .btn .btn-purple } **Kijin An** and Eli Tilevich, "Client Insourcing: Bringing Ops In-House for Seamless Re-engineering of Full-Stack JavaScript Applications," *Proceedings of the Web Conference 2020 (WWW 2020)*, 179-189, April 2020 (**19%, 217/1129**). [pdf](https://people.cs.vt.edu/~tilevich/papers/Client_Insourcing_WebConf2020.pdf), [video](https://youtu.be/69U5Y6HsAOw), [code](https://github.com/kjproj84/JS-RCI)
 * **Kijin An**, "Enhancing Web App Execution with Automated Reengineering," *Companion Proceedings of the Web Conference 2020 (PhD Symposium in WWW 2020)*, 274-278, April 2020. [video](https://youtu.be/EvnTicEUkzU)
@@ -15,7 +17,8 @@ author_profile: true
 * [Full Paper](){: .btn .btn-purple } Yin Liu, **Kijin An**, and Eli Tilevich, "RT-Trust: Automated Refactoring for Trusted Execution Under Real-Time Constraints," *Proceedings of the 17th International Conference on Generative Programming: Concepts & Experience (GPCE 2018)*, 175-187, Nov 2018. [pdf](https://people.cs.vt.edu/~tilevich/papers/cpi-gpce.pdf) (Yin made [slides](https://drive.google.com/file/d/1Ucm3oZg4VfYglxhbplEIFLWWB35yWy80/view) and [poster](https://drive.google.com/file/d/1RO3zCYDZHClDxdlkMyO9zhIsmMEar1sa/view))
 * [Full Paper](){: .btn .btn-purple } **Kijin An**, Na Meng, and Eli Tilevich, "Automatic Inference of Java-to-Swift Translation Rules for Porting Mobile Applications,” *MobileSoft 2018*, 180-190, May 2018. [pdf](https://people.cs.vt.edu/~tilevich/papers/inference-translation-mobilesoft2018.pdf), [**Nominated for the Best Paper Award**](https://www.icse2018.org/details/mobilesoft-2018-papers/6/Automatic-Inference-of-Java-to-Swift-Translation-Rules-for-Porting-Mobile-Application)
 
-<h3>Robotics Research in KIST</h3>
+Robotics Research in KIST
+---
 * **Kijin An**, Geunjae Lee, Sang-Seok Yun, and JongSuk Choi, "Multiple Humans Recognition of Robot Aided by Perception Sensor Network," *In. Proc. Int. Conf. Ubiquitous Robots and Ambient Intelligence (URAI)*, pp. 359-361, Oct. 2015. [poster](../poster/URAI15_POSTER_SENSOR_NET_1025.pdf)
 * Geunjae Lee, **Kijin An**, Sang-Seok Yun, and JongSuk Choi, "A Simultaneous Robot Service Scheme for Multi-Users," *In. Proc. Int. Conf. Ubiquitous Robots and Ambient Intelligence (URAI)*, pp. 373-374, Oct. 2015. [poster](../poster/URAI15_POSTER_SCHEDULING_1025.pdf)
 * Anh Vu Le, **Kijin An** and JongSuk Choi, “Multiple human tracking on robot operation system,” *In. Proc. Int. Conf. Ubiquitous Robots and Ambient Intelligence (URAI)*, Oct. 2015.
@@ -37,7 +40,8 @@ author_profile: true
 </tr>
 </table>
 
-<h3>Multimedia Networking Lab in POSTECH</h3>
+Multimedia Networking Lab in POSTECH
+---
 * [Full Paper](){: .btn .btn-purple } Wan Kim, Hyunchul Joo, **Kijin An**, and Hwangjun Song, "A novel packet urgency metric-based cross-layer design for video streaming over multi-rate MANETs," *International Wireless Communication and Mobile Computing (IWCMC)*, 2013.
 * [Journal](){:.btn} Wan Kim, Hyunchul Joo, **Kijin An**, Inkyu Lee, and Hwangjun Song, "Urgency-based scheduling and routing algorithms for delay-sensitive data transmission over mobile ad hoc networks,” *ACM/Springer Wireless Networks*, Vol. 19, No. 7, pp. 1595-1609, 2013. (Master thesis)
 * [Full Paper](){: .btn .btn-purple } Hyunchul Joo, **Kijin An**, and Hwangjun Song, "Urgency-based Packet Scheduling and Routing Algorithms for Video Transmission over MANETs," *IET International Communication Conference on Wireless Mobile (CCWMC)* 2011.
