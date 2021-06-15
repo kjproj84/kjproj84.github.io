@@ -15,15 +15,15 @@ author_profile: true
 * [Full Paper](){: .btn .btn-purple } **Kijin An**, Na Meng, and Eli Tilevich, "Automatic Inference of Java-to-Swift Translation Rules for Porting Mobile Applications,” *MobileSoft 2018*, 180-190, May 2018. [pdf](https://people.cs.vt.edu/~tilevich/papers/inference-translation-mobilesoft2018.pdf), [**Nominated for the Best Paper Award**](https://www.icse2018.org/details/mobilesoft-2018-papers/6/Automatic-Inference-of-Java-to-Swift-Translation-Rules-for-Porting-Mobile-Application)
 
 <h3>Robotics Research in KIST</h3>
-* **Kijin An**, Geunjae Lee, Sang-Seok Yun, and JongSuk Choi, "Multiple Humans Recognition of Robot Aided by Perception Sensor Network," *In. Proc. Int. Conf. Ubiquitous Robots and Ambient Intelligence (URAI)*, pp. 359-361, Oct. 2015.
-* Geunjae Lee, **Kijin An**, Sang-Seok Yun, and JongSuk Choi, "A Simultaneous Robot Service Scheme for Multi-Users," *In. Proc. Int. Conf. Ubiquitous Robots and Ambient Intelligence (URAI)*, pp. 373-374, Oct. 2015.
+* **Kijin An**, Geunjae Lee, Sang-Seok Yun, and JongSuk Choi, "Multiple Humans Recognition of Robot Aided by Perception Sensor Network," *In. Proc. Int. Conf. Ubiquitous Robots and Ambient Intelligence (URAI)*, pp. 359-361, Oct. 2015. [poster](poster/URAI15_POSTER_SENSOR_NET_1025.pdf)
+* Geunjae Lee, **Kijin An**, Sang-Seok Yun, and JongSuk Choi, "A Simultaneous Robot Service Scheme for Multi-Users," *In. Proc. Int. Conf. Ubiquitous Robots and Ambient Intelligence (URAI)*, pp. 373-374, Oct. 2015. [poster](poster/URAI15_POSTER_SCHEDULING_1025.pdf)
 * Anh Vu Le, **Kijin An** and JongSuk Choi, “Multiple human tracking on robot operation system,” *In. Proc. Int. Conf. Ubiquitous Robots and Ambient Intelligence (URAI)*, Oct. 2015.
 * **Kijin An**, Hyeon-woo Park and JongSuk Choi, “Reliable Fusion method of multiple Human information over a Heterogeneous Sensor Network,” *IEEE RO-MAN 2015*.
 * Anh Vu Le, **Kijin An** and JongSuk Choi, “Group-based multiple people tracking in perception sensor network,” *IEEE RO-MAN* 2015.
 * JiGwan Park, **Kijin An**, and JongSuk Choi, "Low-Body-Part Detection using RGB-D camera." *Proceedings of the Tenth Annual ACM/IEEE International Conference on Human-Robot Interaction* Extended Abstracts. ACM, 2015. 
-* [Full Paper](){: .btn .btn-purple } **Kijin An**, JiGwan Park, Minh Do Hoang and JongSuk Choi, “Dispensing Materials of mobile Robot cooperating with Perception Sensor Network,” *URAI 2014*.
-JiGwan Park, **Kijin An**, Daijin Kim and JongSuk Choi, “Multiple Human Tracking using Multiple Kinects for an Attendance Check System of a Smart Class,” *URAI 2013*. (video paper)
-* [Full Paper](){: .btn .btn-purple } JiGwan Park, **Kijin An**, and JongSuk Choi, "Realistic 3D simulation of multiple human recognition over Perception Sensor Network," Robot and Human Interactive Communication, *IEEE RO-MAN* 2014.
+* [Full Paper](){: .btn .btn-purple } **Kijin An**, JiGwan Park, Minh Do Hoang and JongSuk Choi, “Dispensing Materials of mobile Robot cooperating with Perception Sensor Network,” *URAI 2014*. [poster](poster/URAI14_POSTER_Kijin.pdf) 
+JiGwan Park, **Kijin An**, Daijin Kim and JongSuk Choi, “Multiple Human Tracking using Multiple Kinects for an Attendance Check System of a Smart Class,” *URAI 2013*.
+* [Full Paper](){: .btn .btn-purple } JiGwan Park, **Kijin An**, and JongSuk Choi, "Realistic 3D simulation of multiple human recognition over Perception Sensor Network," Robot and Human Interactive Communication, *IEEE RO-MAN 2014*. [poster](poster/ro-man2014_poster.pdf)
 * [Full Paper](){: .btn .btn-purple } **Kijin An**, JongSuk Choi, “A 3D Simulation Approach for Multi-human Detection using a Multi-sensor frame,” *IEEE RO- MAN* 2013. 
 <table>
 <tr>
@@ -44,3 +44,6 @@ JiGwan Park, **Kijin An**, Daijin Kim and JongSuk Choi, “Multiple Human Tracki
 * [Domestic Journal](){:.btn} **Kijin An**, H. Joo, H. Song, “Cross-layer based Transmission Scheme for Multimedia Service over Mobile Ad Hoc Network,” *The Journal of Korean Institute of Communications and Information Sciences*, Vol. 34, No.11, pp. 1216-1224, 2009.
 * [Full Paper](){: .btn .btn-purple } **Kijin An** and Hwangjun Song, "An effective cross-layer packet scheduling and routing algorithm for delay-sensitive media transmission over MANET," *IEEE International Conference on Communications (ICC)* 2009. (**34.9%, 1046/3000**) 	
 * [Domestic Journal](){:.btn} **Kijin An**, H. Joo, H.R. Oh, Y.D. Kim, Y.M. Yang, H. Song," Design and Implementation of Sensor Network Actors Supporting Ptolemy Tool," *Journal of the Korea society for simulation*, Vol. 17, No. 4, pp.1-10, 2008.
+
+![title](images/ptolemy.png)
+

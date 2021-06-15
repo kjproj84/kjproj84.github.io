@@ -13,6 +13,7 @@ I received Ph.D. degree in the [Department of Computer Science](https://cs.vt.ed
 Research Interests
 ---
 - Refactoring/Optimizing Distributed Systems, Software Engineering, Web-based Systems, Apps of Machine learning, Software Security, Networking
+- [Dissertation](https://vtechworks.lib.vt.edu/handle/10919/103391)
 - [Research Statement](./Kijin_An_Research_Statement.pdf)
 - [Prelim Exam Document](./Kijin_An_Prelim_proposal.pdf)
 <details>
@@ -30,7 +31,7 @@ News
 - May 2021. I received [the Best Paper Award](./ICWE2021_BestPaper_Award_Kijin.pdf)🏆 at the ICWE 2021!. [news](https://www.linkedin.com/posts/vt-cs_congratulations-to-phd-alumnus-kijin-an-and-activity-6803671032625434624-OGDH/)
 - May 2021. I remotely attended to [ICWE 2021](https://icwe2021.webengineering.org/) as a presenter. [video](https://kjproj84.github.io/ICWE2021_KIJIN_AN.mp4)
 - Feburary 2021. One work is accepted to ICWE 2021!
-- November 2020. Our paper RT-Trust is nominated for a **Best Paper Award** at *Journal of Computer Languages (COLA)*
+- November 2020. Our paper RT-Trust is nominated for the **Best Paper Award** at *Journal of Computer Languages (COLA)*
 - April 2020. I remotely attended to [theWebConf 2020](https://www2020.thewebconf.org).
 <details>
 <summary style='margin-left:0in;color#088A85'>Old News</summary>
