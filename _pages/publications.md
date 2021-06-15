@@ -46,4 +46,5 @@ author_profile: true
 * [Domestic Journal](){:.btn} **Kijin An**, H. Joo, H.R. Oh, Y.D. Kim, Y.M. Yang, H. Song," Design and Implementation of Sensor Network Actors Supporting Ptolemy Tool," *Journal of the Korea society for simulation*, Vol. 17, No. 4, pp.1-10, 2008.
 
 ![title](../images/ptolemy.png)
+![title](../images/cross.png)
 

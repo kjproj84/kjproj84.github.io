@@ -13,14 +13,18 @@ I received Ph.D. degree in the [Department of Computer Science](https://cs.vt.ed
 Research Interests
 ---
 - Refactoring/Optimizing Distributed Systems, Software Engineering, Web-based Systems, Apps of Machine learning, Software Security, Networking
-- [Dissertation](https://vtechworks.lib.vt.edu/handle/10919/103391)
 - [Research Statement](./Kijin_An_Research_Statement.pdf)
-- [Prelim Exam Document](./Kijin_An_Prelim_proposal.pdf)
 <details>
 <summary style='margin-left:0in;color#088A85'>Details</summary>
 <ul>
 <li>
 My research proposed a new refactoring to create a centralized variant of distributed apps to facilitate re-engineering of distributed apps/cloud services. My idea solved none-trivial tasks for evolving distributed apps: localizing bugs, optimizing distribution granularity, and replicating a subset of distributed apps into different machines for enabling edge-based/centralized computing. (related to Serverless computing). My approach improves software engineering’s latest ideas such as declarative program analysis with z3 engine, fuzzing/checkpointing web execution, and replication in distributed systems. My dissertation idea was published in ​theWebConf 2020 and awarded as the Best paper in ICWE 2021. And two of other papers were nominated for the best paper awards.
+</li>
+<li>
+[Dissertation](https://vtechworks.lib.vt.edu/handle/10919/103391)
+</li>
+<li>
+[Prelim Exam Document](./Kijin_An_Prelim_proposal.pdf)
 </li>
 </ul>
 </details>
