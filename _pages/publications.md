@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<h3>Software Innovations Lab in CS@VT</h3>
 * [Full Paper](){: .btn .btn-purple } **Kijin An** and Eli Tilevich, "Communicating Web Vessels: Improving the Responsiveness of Mobile Web Apps with Adaptive Redistribution," accepted to *21th International Conference on Web Engineering (ICWE 2021)* (**17%, 22/128**). [pdf](../ICWE_2021_paper_Kijin.pdf), [video](https://kjproj84.github.io/ICWE2021_KIJIN_AN.mp4), **Best Paper Award🏆**
 * [Full Paper](){: .btn .btn-purple } **Kijin An** and Eli Tilevich, "Client Insourcing: Bringing Ops In-House for Seamless Re-engineering of Full-Stack JavaScript Applications," *Proceedings of the Web Conference 2020 (WWW 2020)*, 179-189, April 2020 (**19%, 217/1129**). [pdf](https://people.cs.vt.edu/~tilevich/papers/Client_Insourcing_WebConf2020.pdf), [video](https://youtu.be/69U5Y6HsAOw), [code](https://github.com/kjproj84/JS-RCI)
 * **Kijin An**, "Enhancing Web App Execution with Automated Reengineering," *Companion Proceedings of the Web Conference 2020 (PhD Symposium in WWW 2020)*, 274-278, April 2020. [video](https://youtu.be/EvnTicEUkzU)
@@ -40,11 +41,11 @@ author_profile: true
 * [Full Paper](){: .btn .btn-purple } Wan Kim, Hyunchul Joo, **Kijin An**, and Hwangjun Song, "A novel packet urgency metric-based cross-layer design for video streaming over multi-rate MANETs," *International Wireless Communication and Mobile Computing (IWCMC)*, 2013.
 * [Journal](){:.btn} Wan Kim, Hyunchul Joo, **Kijin An**, Inkyu Lee, and Hwangjun Song, "Urgency-based scheduling and routing algorithms for delay-sensitive data transmission over mobile ad hoc networks,” *ACM/Springer Wireless Networks*, Vol. 19, No. 7, pp. 1595-1609, 2013. (Master thesis)
 * [Full Paper](){: .btn .btn-purple } Hyunchul Joo, **Kijin An**, and Hwangjun Song, "Urgency-based Packet Scheduling and Routing Algorithms for Video Transmission over MANETs," *IET International Communication Conference on Wireless Mobile (CCWMC)* 2011.
-* [Domestic Journal](){:.btn} W. Kim, **Kijin An**, H. Joo, G. Lee, J. An, M. Sohn, Y. Mo Yang and H. Song, "Indoor Location Recognition Simulator over UWB Channel," *Journal of KICS*, Vol.35 No. 7, pp. 1058-1065, 2010.
 * [Domestic Journal](){:.btn} **Kijin An**, H. Joo, H. Song, “Cross-layer based Transmission Scheme for Multimedia Service over Mobile Ad Hoc Network,” *The Journal of Korean Institute of Communications and Information Sciences*, Vol. 34, No.11, pp. 1216-1224, 2009.
 * [Full Paper](){: .btn .btn-purple } **Kijin An** and Hwangjun Song, "An effective cross-layer packet scheduling and routing algorithm for delay-sensitive media transmission over MANET," *IEEE International Conference on Communications (ICC)* 2009. (**34.9%, 1046/3000**) 	
-* [Domestic Journal](){:.btn} **Kijin An**, H. Joo, H.R. Oh, Y.D. Kim, Y.M. Yang, H. Song," Design and Implementation of Sensor Network Actors Supporting Ptolemy Tool," *Journal of the Korea society for simulation*, Vol. 17, No. 4, pp.1-10, 2008.
-
-![title](../images/ptolemy.png)
 ![title](../images/cross.png)
+* [Domestic Journal](){:.btn} W. Kim, **Kijin An**, H. Joo, G. Lee, J. An, M. Sohn, Y. Mo Yang and H. Song, "Indoor Location Recognition Simulator over UWB Channel," *Journal of KICS*, Vol.35 No. 7, pp. 1058-1065, 2010.
+* [Domestic Journal](){:.btn} **Kijin An**, H. Joo, H.R. Oh, Y.D. Kim, Y.M. Yang, H. Song," Design and Implementation of Sensor Network Actors Supporting Ptolemy Tool," *Journal of the Korea society for simulation*, Vol. 17, No. 4, pp.1-10, 2008.
+![title](../images/ptolemy.png)
+
 
