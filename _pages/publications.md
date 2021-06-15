@@ -22,7 +22,7 @@ author_profile: true
 * Anh Vu Le, **Kijin An** and JongSuk Choi, “Group-based multiple people tracking in perception sensor network,” *IEEE RO-MAN* 2015.
 * JiGwan Park, **Kijin An**, and JongSuk Choi, "Low-Body-Part Detection using RGB-D camera." *Proceedings of the Tenth Annual ACM/IEEE International Conference on Human-Robot Interaction* Extended Abstracts. ACM, 2015. 
 * [Full Paper](){: .btn .btn-purple } **Kijin An**, JiGwan Park, Minh Do Hoang and JongSuk Choi, “Dispensing Materials of mobile Robot cooperating with Perception Sensor Network,” *URAI 2014*. [poster](../poster/URAI14_POSTER_Kijin.pdf) 
-JiGwan Park, **Kijin An**, Daijin Kim and JongSuk Choi, “Multiple Human Tracking using Multiple Kinects for an Attendance Check System of a Smart Class,” *URAI 2013*.
+* JiGwan Park, **Kijin An**, Daijin Kim and JongSuk Choi, “Multiple Human Tracking using Multiple Kinects for an Attendance Check System of a Smart Class,” *URAI 2013*.
 * [Full Paper](){: .btn .btn-purple } JiGwan Park, **Kijin An**, and JongSuk Choi, "Realistic 3D simulation of multiple human recognition over Perception Sensor Network," Robot and Human Interactive Communication, *IEEE RO-MAN 2014*. [poster](../poster/ro-man2014_poster.pdf)
 * [Full Paper](){: .btn .btn-purple } **Kijin An**, JongSuk Choi, “A 3D Simulation Approach for Multi-human Detection using a Multi-sensor frame,” *IEEE RO- MAN* 2013. 
 <table>
