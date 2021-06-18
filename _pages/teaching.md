@@ -9,8 +9,8 @@ Teaching Experience
 ---
 - GTA in Computer Organization I (CS2505) at Virginia Tech, Fall 2015,  Spring 2016
 - GTA in Computer Organization II (CS2506) at Virginia Tech, Fall 2017, Spring 2018, Fall 2018
-   * I worked for the same project called ["Understanding Heap-Spraying Attacks"](http://courses.cs.vt.edu/cs2506/Spring2018/C/HS/handout.pdf). (I studied this work with about 540 VT undergrad students).
-   * I also had two Info sessions. See [my slides](https://docs.google.com/presentation/d/1Nx5RuC0M54S65wXEbromVo19iX3_wWTvXKEY5DarlOc/edit?usp=sharing).
+   * I worked for the [CyberSecurity Project](https://hosting.cs.vt.edu/CybersecurityEducation/gallery/) for 1.5 years, where I developed the level 3 module called ["Understanding Heap-Spraying Attacks"](http://courses.cs.vt.edu/cs2506/Spring2018/C/HS/handout.pdf). This is the next stage of the [**Attack Lab**](https://courses.cs.vt.edu/cs2506/Fall2017/C/AL/attacklab.pdf) also taught in CS2506, students attacks the victim server by applying Heap-Spraying Attack after craftingtheir JavaScript/Assembly code. I implemented this module by extending JavaScript Virtual Machine V8. 
+   * I studied this work with about 540 VT undergrad students and had two Info sessions. See [my slides](https://docs.google.com/presentation/d/1Nx5RuC0M54S65wXEbromVo19iX3_wWTvXKEY5DarlOc/edit?usp=sharing).
 
 Talks
 ---
