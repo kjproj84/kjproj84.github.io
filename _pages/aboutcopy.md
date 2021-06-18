@@ -18,7 +18,7 @@ Research Interests
 <summary style='margin-left:0in;color#088A85'>Details</summary>
 <ul>
 <li>
-My research proposed a new refactoring to create a centralized variant of distributed apps to facilitate re-engineering of distributed apps/cloud services. My idea solved none-trivial tasks for evolving distributed apps: localizing bugs, optimizing distribution granularity, and replicating a subset of distributed apps into different machines for enabling edge-based/centralized computing. (related to Serverless computing). My approach improves software engineering’s latest ideas such as declarative program analysis with z3 engine, fuzzing/checkpointing web execution, and replication in distributed systems. My dissertation idea was published in ​theWebConf 2020 and awarded as the Best paper in ICWE 2021. And two of other papers were nominated for the best paper awards.
+My research proposed a new refactoring to create a centralized variant of distributed apps to facilitate re-engineering of distributed apps/cloud services. My idea solved non-trivial tasks for evolving distributed apps: efficiently localizing bugs, optimizing distribution granularity, and replicating a subset of distributed apps into different machines for enabling edge-based/centralized computing. (related to Serverless computing). My approach improves software engineering’s latest ideas such as declarative program analysis with z3 engine, fuzzing/checkpointing web execution, and replication in distributed systems. My dissertation idea was published in ​theWebConf 2020 and awarded as the Best paper in ICWE 2021. And two of other papers were nominated for the best paper awards.
 </li>
 <li>
 <a href="https://vtechworks.lib.vt.edu/handle/10919/103391">Dissertation</a>
@@ -34,6 +34,7 @@ News
 ---
 - May 2021. I received [the Best Paper Award](./ICWE2021_BestPaper_Award_Kijin.pdf)🏆 at the ICWE 2021!. [news](https://www.linkedin.com/posts/vt-cs_congratulations-to-phd-alumnus-kijin-an-and-activity-6803671032625434624-OGDH/)
 - May 2021. I remotely attended to [ICWE 2021](https://icwe2021.webengineering.org/) as a presenter. [video](https://kjproj84.github.io/ICWE2021_KIJIN_AN.mp4)
+- April 2021. I passed my final defense!
 - Feburary 2021. One work is accepted to ICWE 2021!
 - November 2020. Our paper RT-Trust is nominated for the **Best Paper Award** at *Journal of Computer Languages (COLA)*
 - April 2020. I remotely attended to [theWebConf 2020](https://www2020.thewebconf.org).
