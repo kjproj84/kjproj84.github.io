@@ -40,7 +40,7 @@ News
 - Feburary 2021. One work is accepted to ICWE 2021!
 - November 2020. Our paper RT-Trust is nominated for the **Best Paper Award** at *Journal of Computer Languages (COLA)*
 - April 2020. I remotely attended [theWebConf 2020](https://www2020.thewebconf.org).
-<detasils>
+<details>
 <summary style='margin-left:0in;color#088A85'>Old News</summary>
 <ul>
 <li>March 2020. I passed my preliminary exam. See <a href="https://kjproj84.github.io/Kijin_An_Prelim_proposal.pdf">my document</a>.</li>
