@@ -19,7 +19,8 @@ Research Interests
 <ul>
 <li>
 <div style="text-align: justify">
-My research proposed a new refactoring to create a centralized variant of distributed apps to facilitate re-engineering of distributed apps/cloud services. My idea solved non-trivial tasks for evolving distributed apps: efficiently localizing bugs, optimizing distribution granularity, and replicating a subset of distributed apps into different machines for enabling edge-based/centralized computing (related to Serverless computing). My approach improves software engineering’s latest ideas such as declarative program analysis with z3 engine, fuzzing/checkpointing web execution, and replication in distributed systems. My dissertation idea was published in ​theWebConf 2020 and awarded as the Best paper in ICWE 2021. And two of other papers were nominated for the best paper awards.
+In my dissertation, I studied refactoring tools for distributed apps in the purpose of facilitating re-engineering of the distributed apps. My approach has a novelty in that it creates a centralized variant of the distributed apps first, then applies perfective and architectural changes of the original distributed apps. My idea solved non-trivial tasks for evolving distributed apps: localizing bugs, optimizing distribution granularity, and replicating a subset of distributed apps into different machines for enabling edge-based/centralized computings. I improved the latest software engineering’s latest ideas such as  fuzzing/checkpointing the HTTP executions (RESTful APIs) and declarative program analysis with the z3 constraints solver, and data replication techniques (i.g. relaxed consistency models). My dissertation research was presented in WWW 2020, ICWE 19, SANER 20, and ICWE 21 with the Best Paper award.
+
 </div>
 </li>
 <li>
@@ -39,14 +40,14 @@ News
 - April 2021. I passed my Final Defense!
 - Feburary 2021. One work is accepted to ICWE 2021!
 - November 2020. Our paper RT-Trust is nominated for the **Best Paper Award** at *Journal of Computer Languages (COLA)*
-- April 2020. I remotely attended [theWebConf 2020](https://www2020.thewebconf.org).
+- April 2020. I remotely attended [WWW 2020](https://www2020.thewebconf.org).
 <details>
 <summary style='margin-left:0in;color#088A85'>Old News</summary>
 <ul>
 <li>March 2020. I passed my preliminary exam. See <a href="https://kjproj84.github.io/Kijin_An_Prelim_proposal.pdf">my document</a>.</li>
 <li>Feburary 2020. I attended SANER 2020, London at Canada.</li>
-<li>January 2020. A PhD Symposium paper is accepted to theWebConf 2020.</li>
-<li>January 2020. One work is accepted to theWebConf 2020!</li>
+<li>January 2020. A PhD Symposium paper is accepted to WWW 2020.</li>
+<li>January 2020. One work is accepted to WWW 2020!</li>
 <li>December 2019. Our work is accepted to Journal of Computer Languages.</li>
 <li>December 2019. One work is accepted to SANER 2020!</li>
 </ul>
