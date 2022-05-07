@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I received Ph.D. degree in the [Department of Computer Science](https://cs.vt.edu/) at [Virginia Tech](https://vt.edu/). I was a member of the Software Innovations Lab, advised by [Prof. Eli Tilevich](http://people.cs.vt.edu/~tilevich/). My research interests are Systems end of Software Engineering. Previously, I worked in Robotics Research at [KIST](https://www.kist.re.kr/kist_web/main/) and access R&D team at [SK telesys](http://www.sktelesys.com/eng/). And I completed my masters degree from [POSTECH](http://postech.ac.kr/eng/), under the supervision of [Prof. Hwangjun Song](http://mcnl.postech.ac.kr/professor).
+Kijin An is a software engineer/researcher in Software Engineering Team in [Samsung Research](https://research.samsung.com/). He received Ph.D. degree in the [Department of Computer Science](https://cs.vt.edu/) at [Virginia Tech](https://vt.edu/), advised by [Prof. Eli Tilevich](http://people.cs.vt.edu/~tilevich/). Previously, he worked in Robotics Research at [KIST](https://www.kist.re.kr/kist_web/main/) and completed his masters degree from [POSTECH](http://postech.ac.kr/eng/), under the supervision of [Prof. Hwangjun Song](http://mcnl.postech.ac.kr/professor).
 
 Research Interests
 ---
-- Refactoring/Optimizing Distributed Systems, Software Engineering, Web-based Systems, Apps of Machine learning, Software Security, Networking
 - Software Engineering, Refactoring, Web-based Systems, Code Smell Detection & Refactoring Recommendation, Machine learning, Distributed Systems, Software Security
 - [Research Statement](./Kijin_An_Research_Statement.pdf)
 <details>
