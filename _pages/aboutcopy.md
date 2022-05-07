@@ -13,6 +13,7 @@ I received Ph.D. degree in the [Department of Computer Science](https://cs.vt.ed
 Research Interests
 ---
 - Refactoring/Optimizing Distributed Systems, Software Engineering, Web-based Systems, Apps of Machine learning, Software Security, Networking
+- Software Engineering, Refactoring, Web-based Systems, Code Smell Detection & Refactoring Recommendation, Machine learning, Distributed Systems, Software Security
 - [Research Statement](./Kijin_An_Research_Statement.pdf)
 <details>
 <summary style='margin-left:0in;color#088A85'>Details</summary>
