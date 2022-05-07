@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "KIJIN AN"
   avatar           : "profile.jpg"
-  bio              : "VT PhD Student"
-  location         : "Blacksburg, VA"
+  bio              : "Software Engineer at Samsung Research"
+  #location         : "Blacksburg, VA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=bYVJC1kAAAAJ&hl=en&oi=ao"
