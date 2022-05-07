@@ -35,6 +35,8 @@ In my dissertation, I studied refactoring tools for distributed apps in the purp
 
 News
 ---
+- Nov 2021. I joined the Samsung Research at Seoul.
+- Oct 2021. I will be serving as a reviewer of [WWW 2022](https://www2022.thewebconf.org/).
 - May 2021. I received [the Best Paper Award](./ICWE2021_BestPaper_Award_Kijin.pdf)🏆 at the ICWE 2021!. [news](https://www.linkedin.com/posts/vt-cs_congratulations-to-phd-alumnus-kijin-an-and-activity-6803671032625434624-OGDH/)
 - May 2021. I remotely attended to [ICWE 2021](https://icwe2021.webengineering.org/) as a presenter. [video](https://kjproj84.github.io/ICWE2021_KIJIN_AN.mp4)
 - April 2021. I passed my Final Defense!
