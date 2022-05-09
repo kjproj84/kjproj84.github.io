@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Kijin An is a software engineer/researcher in Software Engineering Team in [Samsung Research](https://research.samsung.com/). He received Ph.D. degree in the [Department of Computer Science](https://cs.vt.edu/) at [Virginia Tech](https://vt.edu/), advised by [Prof. Eli Tilevich](http://people.cs.vt.edu/~tilevich/). Previously, he worked in Robotics Research at [KIST](https://www.kist.re.kr/kist_web/main/) and completed his masters degree from [POSTECH](http://postech.ac.kr/eng/), under the supervision of [Prof. Hwangjun Song](http://mcnl.postech.ac.kr/professor).
+Kijin An is a software engineer/researcher at Software Engineering Team in [Samsung Research](https://research.samsung.com/). He received his Ph.D. degree in the [Department of Computer Science](https://cs.vt.edu/) at [Virginia Tech](https://vt.edu/), advised by [Prof. Eli Tilevich](http://people.cs.vt.edu/~tilevich/). Previously, he worked in Robotics Research at [KIST](https://www.kist.re.kr/kist_web/main/) and completed his masters degree from [POSTECH](http://postech.ac.kr/eng/), under the supervision of [Prof. Hwangjun Song](http://mcnl.postech.ac.kr/professor).
 
 Research Interests
 ---
