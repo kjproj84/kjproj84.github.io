@@ -19,8 +19,9 @@ Research Interests
 <ul>
 <li>
 <div style="text-align: justify">
-In my dissertation, I studied refactoring tools for distributed apps in the purpose of facilitating re-engineering of the distributed apps. My approach has a novelty in that it creates a centralized variant of the distributed apps first, then applies perfective and architectural changes of the original distributed apps. My idea solved non-trivial tasks for evolving distributed apps: localizing bugs, optimizing distribution granularity, and replicating a subset of distributed apps into different machines for enabling edge-based/centralized computings. I improved the latest software engineering’s latest ideas such as  fuzzing/checkpointing the HTTP executions (RESTful APIs) and declarative program analysis with the z3 constraints solver, and data replication techniques (i.g. relaxed consistency models). My dissertation research was presented in WWW 2020, ICWE 19, SANER 20, and ICWE 21 with the Best Paper award.
-
+I studied Software Engineering during my Ph.D., especially refactoring techniques for distributed apps. My approach has a novelty in that it creates a centralized variant of the distributed app to facilitate re-engineering. In other word, this variant works as a good proxy of the original version, thus perfective or architectural refactoring
+tasks could be applied to this version. My idea solved non-trivial tasks for evolving distributed apps: localizing bugs, optimizing distribution granularity, and replicating a subset of distributed apps into different machines for enabling edge-based/centralized computing. My approach is realized by using the latest software engineering techniques:
+fuzzing/checkpointing the HTTP executions (RESTful APIs) and declarative program analysis with the z3 constraints solver, and data replication techniques (i.g. relaxed consistency models). My dissertation research was presented in WWW 2020, ICWE 2019, SANER 2020, ICWE 2021 (Best Paper award), etc.
 </div>
 </li>
 <li>
