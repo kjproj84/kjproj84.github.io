@@ -36,7 +36,7 @@ fuzzing/checkpointing the HTTP executions (RESTful APIs) and declarative program
 
 News
 ---
-- June 2022. Our work is accepted to [Journal of Web Engneering](https://journals.riverpublishers.com/index.php/JWE/index)!
+- June 2022. Our work is accepted to [Journal of Web Engineering](https://journals.riverpublishers.com/index.php/JWE/index)!
 - Nov 2021. I joined the Samsung Research at Seoul.
 - Oct 2021. I will be serving as a reviewer of [WWW 2022](https://www2022.thewebconf.org/).
 - May 2021. I received [the Best Paper Award](./ICWE2021_BestPaper_Award_Kijin.pdf)🏆 at the ICWE 2021!. [news](https://www.linkedin.com/posts/vt-cs_congratulations-to-phd-alumnus-kijin-an-and-activity-6803671032625434624-OGDH/)
