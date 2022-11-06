@@ -36,7 +36,7 @@ fuzzing/checkpointing the HTTP executions (RESTful APIs) and declarative program
 
 News
 ---
-- Oct 2022. The preprint of our JWE's work is now available. [preprint](https://kjproj84.github.io/JWE_CWV_Kijin_preprint.pdf)
+- Oct 2022. The preprint of our [JWE](https://journals.riverpublishers.com/index.php/JWE)'s work is now available. [preprint](https://people.cs.vt.edu/~tilevich/papers/jwe2022.pdf)
 - Jul 2022. I will be serving as a reviewer of [WSDM 2023](https://www.wsdm-conference.org/2023/).
 - June 2022. One work is accepted to Journal of Web Engineering(JWE)!
 - Nov 2021. I joined the Samsung Research at Seoul.
@@ -64,7 +64,7 @@ News
 
 Recent Publications (From 2018 ~)
 ---  
-1. [Journal](){:.btn} **Kijin An** and Eli Tilevich, "Adaptive Redistribution and Replication to Improve the Responsiveness of Mobile Web Apps," accepted to *Journal of Web Engineering* (selected by [ICWE 2021's Special Issues](https://icwe2021.webengineering.org/special-issues/)).
+1. [Journal](){:.btn} **Kijin An** and Eli Tilevich, "Adaptive Redistribution and Replication to Improve the Responsiveness of Mobile Web Apps," accepted to [*Journal of Web Engineering*](https://journals.riverpublishers.com/index.php/JWE) (selected by [ICWE 2021's Special Issues](https://icwe2021.webengineering.org/special-issues/)).
 1. [Full Paper](){:.btn} **Kijin An** and Eli Tilevich, "Communicating Web Vessels: Improving the Responsiveness of Mobile Web Apps with Adaptive Redistribution," *21th International Conference on Web Engineering (ICWE 2021)* (**17%, 22/128**). [pdf](./ICWE_2021_paper_Kijin.pdf), [video](https://kjproj84.github.io/ICWE2021_KIJIN_AN.mp4), **Best Paper Award 🏆**
 1. [Full Paper](){:.btn} **Kijin An** and Eli Tilevich, "Client Insourcing: Bringing Ops In-House for Seamless Re-engineering of Full-Stack JavaScript Applications," *Proceedings of the Web Conference 2020 (WWW 2020)*, 179-189, April 2020 (**19%, 217/1129**). [pdf](https://people.cs.vt.edu/~tilevich/papers/Client_Insourcing_WebConf2020.pdf), [video](https://youtu.be/69U5Y6HsAOw), [code](https://github.com/kjproj84/JS-RCI)
 2. **Kijin An**, "Enhancing Web App Execution with Automated Reengineering," *Companion Proceedings of the Web Conference 2020 (PhD Symposium in WWW 2020)*, 274-278, April 2020. [video](https://youtu.be/EvnTicEUkzU)
