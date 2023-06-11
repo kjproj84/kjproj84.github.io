@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Kijin An is a software engineer/researcher at Software Engineering Team in [Samsung Research](https://research.samsung.com/). He received his Ph.D. degree in the [Department of Computer Science](https://cs.vt.edu/) at [Virginia Tech](https://vt.edu/), advised by [Prof. Eli Tilevich](http://people.cs.vt.edu/~tilevich/). Previously, he worked in Robotics Research at [KIST](https://www.kist.re.kr/kist_web/main/) and completed his masters degree from [POSTECH](http://postech.ac.kr/eng/), under the supervision of [Prof. Hwangjun Song](http://mcnl.postech.ac.kr/professor).
+Kijin An is a software engineer/researcher at Software Engineering Team in [Samsung Research](https://research.samsung.com/), he is working for AI pair promgrammer tools. He received his Ph.D. degree in the [Department of Computer Science](https://cs.vt.edu/) at [Virginia Tech](https://vt.edu/), advised by [Prof. Eli Tilevich](http://people.cs.vt.edu/~tilevich/). Previously, he worked in [KIST](https://www.kist.re.kr/kist_web/main/) and completed his masters degree from [POSTECH](http://postech.ac.kr/eng/), under the supervision of [Prof. Hwangjun Song](http://mcnl.postech.ac.kr/professor).
 
 Research Interests
 ---
-- Software Engineering, Refactoring, Web-based Systems, Code Smell Detection & Refactoring Recommendation, Machine learning, Distributed Systems, Software Security
+- Software Engineering, AI pair programmer tool, AI4SE, Refactoring.
 - [Research Statement](./Kijin_An_Research_Statement.pdf)
 <details>
 <summary style='margin-left:0in;color#088A85'>Details</summary>
@@ -36,11 +36,11 @@ fuzzing/checkpointing the HTTP executions (RESTful APIs) and declarative program
 
 News
 ---
-- Oct 2022. The preprint of our [JWE](https://journals.riverpublishers.com/index.php/JWE)'s work is now available. [preprint](https://people.cs.vt.edu/~tilevich/papers/jwe2022.pdf)
-- Jul 2022. I will be serving as a reviewer of [WSDM 2023](https://www.wsdm-conference.org/2023/).
+- May 2023. I served as an external reviewer for RO-MAN 2023. 
+- Sep 2022. I will be serving as a reviewer of [WSDM 2023](https://www.wsdm-conference.org/2023/).
 - June 2022. One work is accepted to Journal of Web Engineering(JWE)!
-- Nov 2021. I joined the Samsung Research at Seoul.
 - Oct 2021. I will be serving as a reviewer of [WWW 2022](https://www2022.thewebconf.org/).
+- Sep 2021. I will join the Samsung Research at Seoul.
 - May 2021. I received [the Best Paper Award](./ICWE2021_BestPaper_Award_Kijin.pdf)🏆 at the ICWE 2021!. [news](https://www.linkedin.com/posts/vt-cs_congratulations-to-phd-alumnus-kijin-an-and-activity-6803671032625434624-OGDH/)
 - May 2021. I remotely attended to [ICWE 2021](https://icwe2021.webengineering.org/) as a presenter. [video](https://kjproj84.github.io/ICWE2021_KIJIN_AN.mp4)
 - April 2021. I passed my Final Defense!
