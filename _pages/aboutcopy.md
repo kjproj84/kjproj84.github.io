@@ -8,34 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Kijin An is a software engineer/researcher at Software Engineering Team in [Samsung Research](https://research.samsung.com/), he is working for AI pair promgrammer tools. He received his Ph.D. degree in the [Department of Computer Science](https://cs.vt.edu/) at [Virginia Tech](https://vt.edu/), advised by [Prof. Eli Tilevich](http://people.cs.vt.edu/~tilevich/). Previously, he worked in [KIST](https://www.kist.re.kr/kist_web/main/) and completed his masters degree from [POSTECH](http://postech.ac.kr/eng/), under the supervision of [Prof. Hwangjun Song](http://mcnl.postech.ac.kr/professor).
+Kijin An is a software engineer/researcher at Software Engineering Team in [Samsung Research](https://research.samsung.com/) at Seoul, currently he is developing AI pair programmer tools. He is working for evaluating performance of language models (including chat models) for Coding Assistant. Also, he is interested in how reinforcement learning or prompt engineering affects to the coding performance of LLM.
+
+Prior that, he received his Ph.D. degree in the [Department of Computer Science](https://cs.vt.edu/) at [Virginia Tech](https://vt.edu/), advised by [Prof. Eli Tilevich](http://people.cs.vt.edu/~tilevich/). Also, he worked in [KIST](https://www.kist.re.kr/kist_web/main/) and completed his masters degree from [POSTECH](http://postech.ac.kr/eng/), under the supervision of [Prof. Hwangjun Song](http://mcnl.postech.ac.kr/professor).
 
 Research Interests
 ---
-- Software Engineering, AI pair programmer tool, AI4SE, Refactoring.
-- [Research Statement](./Kijin_An_Research_Statement.pdf)
-<details>
-<summary style='margin-left:0in;color#088A85'>Details</summary>
-<ul>
-<li>
-<div style="text-align: justify">
-I studied Software Engineering during my Ph.D., especially refactoring techniques for distributed apps. My approach has a novelty in that it creates a centralized variant of the distributed app to facilitate re-engineering. In other word, this variant works as a good proxy of the original version, thus perfective or architectural refactoring
-tasks could be applied to this version. My idea solved non-trivial tasks for evolving distributed apps: localizing bugs, optimizing distribution granularity, and replicating a subset of distributed apps into different machines for enabling edge-based/centralized computing. My approach is realized by using the latest software engineering techniques:
-fuzzing/checkpointing the HTTP executions (RESTful APIs) and declarative program analysis with the z3 constraints solver, and data replication techniques (i.g. relaxed consistency models). My dissertation research was presented in WWW 2020, ICWE 2019, SANER 2020, ICWE 2021 (Best Paper award), etc.
-</div>
-</li>
-<li>
-<a href="https://vtechworks.lib.vt.edu/handle/10919/103391">Dissertation</a>
-</li>
-<li>
-<a href="./Kijin_An_Prelim_proposal.pdf">Prelim Exam Document</a>
-</li>
-</ul>
-</details>
-
+* Software Engineering, AI pair programmer tools, Language Model for Code, Refactoring, Reinforcement Learnining.
+* <a href="https://vtechworks.lib.vt.edu/handle/10919/103391">Dissertation</a>
+* [Dissertation Summary](./Kijin_An_Research_Statement.pdf)
 
 News
 ---
+- June 2023. I will be serving as a Program Committee of [WSDM 2024](https://www.wsdm-conference.org/2024/).
 - May 2023. I served as an external reviewer for RO-MAN 2023. 
 - Sep 2022. I will be serving as a reviewer of [WSDM 2023](https://www.wsdm-conference.org/2023/).
 - June 2022. One work is accepted to Journal of Web Engineering(JWE)!
