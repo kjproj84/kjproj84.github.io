@@ -14,7 +14,7 @@ Prior that, he received his Ph.D. degree in the [Department of Computer Science]
 
 Research Interests
 ---
-* Software Engineering, AI pair programmer tools, Language Model for Code, Refactoring, Reinforcement Learnining.
+* Software Engineering, AI pair programmer tools, Language Model for Code, Refactoring, Reinforcement Learning.
 * <a href="https://vtechworks.lib.vt.edu/handle/10919/103391">Dissertation</a>
 * [Dissertation Summary](./Kijin_An_Research_Statement.pdf)
 
