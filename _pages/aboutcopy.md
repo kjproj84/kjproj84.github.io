@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Kijin An is a software engineer/researcher at Software Engineering Team in [Samsung Research](https://research.samsung.com/) at Seoul, currently he is developing AI pair programmer tools. He is working for evaluating performance of language models (including chat models) for Coding Assistant. Also, he is interested in how reinforcement learning or prompt engineering affects to the coding performance of LLM.
+Kijin An is a software engineer/researcher at Software Engineering Team in [Samsung Research](https://research.samsung.com/) at Seoul, currently he is developing AI Coding Assitant tool based LLM. He is interested in how reinforcement learning or prompt engineering affects to the coding performance of LLM for Code.
 
 Prior that, he received his Ph.D. degree in the [Department of Computer Science](https://cs.vt.edu/) at [Virginia Tech](https://vt.edu/), advised by [Prof. Eli Tilevich](http://people.cs.vt.edu/~tilevich/). Also, he worked in [KIST](https://www.kist.re.kr/kist_web/main/) and completed his masters degree from [POSTECH](http://postech.ac.kr/eng/), under the supervision of [Prof. Hwangjun Song](http://mcnl.postech.ac.kr/professor).
 
@@ -20,6 +20,7 @@ Research Interests
 
 News
 ---
+- April 2024. One work is accepted to [ICDCS 2024](https://icdcs2024.icdcs.org). 🆕
 - June 2023. I will be serving as a Program Committee of [WSDM 2024](https://www.wsdm-conference.org/2024/).
 - May 2023. I served as an external reviewer for RO-MAN 2023. 
 - Sep 2022. I will be serving as a reviewer of [WSDM 2023](https://www.wsdm-conference.org/2023/).
