@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Kijin An is a software engineer/researcher at Software Engineering Team in [Samsung Research](https://research.samsung.com/) at Seoul, currently he is developing AI Coding Assitant tool based LLM. He is interested in how reinforcement learning or prompt engineering affects to the coding performance of LLM for Code.
+Kijin An is a software engineer/researcher at the Software Engineering Team in [Samsung Research](https://research.samsung.com/) in Seoul, currently, he is developing an AI Coding Assitant tool based on LLMs. He is interested in how reinforcement learning or prompt engineering affects to the coding performance of LLM for Code.
 
-Prior that, he received his Ph.D. degree in the [Department of Computer Science](https://cs.vt.edu/) at [Virginia Tech](https://vt.edu/), advised by [Prof. Eli Tilevich](http://people.cs.vt.edu/~tilevich/). Also, he worked in [KIST](https://www.kist.re.kr/kist_web/main/) and completed his masters degree from [POSTECH](http://postech.ac.kr/eng/), under the supervision of [Prof. Hwangjun Song](http://mcnl.postech.ac.kr/professor).
+Prior to that, he received his Ph.D. degree in the [Department of Computer Science](https://cs.vt.edu/) at [Virginia Tech](https://vt.edu/), advised by [Prof. Eli Tilevich](http://people.cs.vt.edu/~tilevich/). Also, he worked in [KIST](https://www.kist.re.kr/kist_web/main/) and completed his master's degree from [POSTECH](http://postech.ac.kr/eng/), under the supervision of [Prof. Hwangjun Song](http://mcnl.postech.ac.kr/professor).
 
 Research Interests
 ---
@@ -21,27 +21,27 @@ Research Interests
 News
 ---
 - April 2024. One work is accepted to [ICDCS 2024](https://icdcs2024.icdcs.org). 🆕
-- June 2023. I will be serving as a Program Committee of [WSDM 2024](https://www.wsdm-conference.org/2024/).
+- June 2023. I will be serving on a Program Committee of [WSDM 2024](https://www.wsdm-conference.org/2024/).
 - May 2023. I served as an external reviewer for RO-MAN 2023. 
 - Sep 2022. I will be serving as a reviewer of [WSDM 2023](https://www.wsdm-conference.org/2023/).
-- June 2022. One work is accepted to Journal of Web Engineering(JWE)!
+- June 2022. One work has been accepted to the Journal of Web Engineering(JWE)!
 - Oct 2021. I will be serving as a reviewer of [WWW 2022](https://www2022.thewebconf.org/).
-- Sep 2021. I will join the Samsung Research at Seoul.
-- May 2021. I received [the Best Paper Award](./ICWE2021_BestPaper_Award_Kijin.pdf)🏆 at the ICWE 2021!. [news](https://www.linkedin.com/posts/vt-cs_congratulations-to-phd-alumnus-kijin-an-and-activity-6803671032625434624-OGDH/)
+- Sep 2021. I will join Samsung Research in Seoul.
+- May 2021. I received [the Best Paper Award](./ICWE2021_BestPaper_Award_Kijin.pdf)🏆 at the ICWE 2021! [news](https://www.linkedin.com/posts/vt-cs_congratulations-to-phd-alumnus-kijin-an-and-activity-6803671032625434624-OGDH/)
 - May 2021. I remotely attended to [ICWE 2021](https://icwe2021.webengineering.org/) as a presenter. [video](https://kjproj84.github.io/ICWE2021_KIJIN_AN.mp4)
 - April 2021. I passed my Final Defense!
-- Feburary 2021. One work is accepted to ICWE 2021!
+- February 2021. One work has been accepted to ICWE 2021!
 - November 2020. Our paper RT-Trust is nominated for the **Best Paper Award** at *Journal of Computer Languages (COLA)*
 - April 2020. I remotely attended [WWW 2020](https://www2020.thewebconf.org).
 <details>
 <summary style='margin-left:0in;color#088A85'>Old News</summary>
 <ul>
 <li>March 2020. I passed my preliminary exam. See <a href="https://kjproj84.github.io/Kijin_An_Prelim_proposal.pdf">my document</a>.</li>
-<li>Feburary 2020. I attended SANER 2020, London at Canada.</li>
+<li>Feburary 2020. I attended SANER 2020, London Canada.</li>
 <li>January 2020. A PhD Symposium paper is accepted to WWW 2020.</li>
 <li>January 2020. One work is accepted to WWW 2020!</li>
-<li>December 2019. Our work is accepted to Journal of Computer Languages.</li>
-<li>December 2019. One work is accepted to SANER 2020!</li>
+<li>December 2019. Our work has been accepted to Journal of Computer Languages.</li>
+<li>December 2019. One work has been accepted to SANER 2020!</li>
 </ul>
 </details>
 
@@ -49,9 +49,10 @@ News
 
 
 Recent Publications (From 2018 ~)
----  
+---
+1. [Full Paper](){:.btn} **Kijin An** and Eli Tilevich, "EdgStr: Automating Client-Cloud to Client-Edge-Cloud Transformation," *Proceedings of the 44th IEEE International Conference on Distributed Computing Systems (ICDCS 2024), July 2024.* [pdf](https://people.cs.vt.edu/~tilevich/papers/ICDCS2024_EdgStr.pdf)
 1. [Journal](){:.btn} **Kijin An** and Eli Tilevich, "Adaptive Redistribution and Replication to Improve the Responsiveness of Mobile Web Apps," accepted to [*Journal of Web Engineering*](https://journals.riverpublishers.com/index.php/JWE) (selected by [ICWE 2021's Special Issues](https://icwe2021.webengineering.org/special-issues/)).
-1. [Full Paper](){:.btn} **Kijin An** and Eli Tilevich, "Communicating Web Vessels: Improving the Responsiveness of Mobile Web Apps with Adaptive Redistribution," *21th International Conference on Web Engineering (ICWE 2021)* (**17%, 22/128**). [pdf](./ICWE_2021_paper_Kijin.pdf), [video](https://kjproj84.github.io/ICWE2021_KIJIN_AN.mp4), **Best Paper Award 🏆**
+1. [Full Paper](){:.btn} **Kijin An** and Eli Tilevich, "Communicating Web Vessels: Improving the Responsiveness of Mobile Web Apps with Adaptive Redistribution," *21st International Conference on Web Engineering (ICWE 2021)* (**17%, 22/128**). [pdf](./ICWE_2021_paper_Kijin.pdf), [video](https://kjproj84.github.io/ICWE2021_KIJIN_AN.mp4), **Best Paper Award 🏆**
 1. [Full Paper](){:.btn} **Kijin An** and Eli Tilevich, "Client Insourcing: Bringing Ops In-House for Seamless Re-engineering of Full-Stack JavaScript Applications," *Proceedings of the Web Conference 2020 (WWW 2020)*, 179-189, April 2020 (**19%, 217/1129**). [pdf](https://people.cs.vt.edu/~tilevich/papers/Client_Insourcing_WebConf2020.pdf), [video](https://youtu.be/69U5Y6HsAOw), [code](https://github.com/kjproj84/JS-RCI)
 2. **Kijin An**, "Enhancing Web App Execution with Automated Reengineering," *Companion Proceedings of the Web Conference 2020 (PhD Symposium in WWW 2020)*, 274-278, April 2020. [video](https://youtu.be/EvnTicEUkzU)
 3. [Full Paper](){:.btn} **Kijin An** and Eli Tilevich, "D-Goldilocks: Automatic Redistribution of Remote Functionalities for Performance and Efficiency," *Proceedings of the 27th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2020)*, 251-260, February 2020 (**21%, 42/199**). [pdf](https://people.cs.vt.edu/~tilevich/papers/SANER2020.pdf), [slides](./SANER20_D_Goldilocks.pdf) 
