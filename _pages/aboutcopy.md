@@ -20,6 +20,7 @@ Research Interests
 
 News
 ---
+- August 2024. I will be serving on a Program Committee of [WSDM 2025](https://www.wsdm-conference.org/2025/).
 - April 2024. One work is accepted to [ICDCS 2024](https://icdcs2024.icdcs.org). 🆕
 - June 2023. I will be serving on a Program Committee of [WSDM 2024](https://www.wsdm-conference.org/2024/).
 - May 2023. I served as an external reviewer for RO-MAN 2023. 
@@ -50,7 +51,7 @@ News
 
 Recent Publications (From 2018 ~)
 ---
-1. [Full Paper](){:.btn} **Kijin An** and Eli Tilevich, "EdgStr: Automating Client-Cloud to Client-Edge-Cloud Transformation," *Proceedings of the 44th IEEE International Conference on Distributed Computing Systems (ICDCS 2024), July 2024.* [pdf](https://people.cs.vt.edu/~tilevich/papers/ICDCS2024_EdgStr.pdf)
+1. [Full Paper](){:.btn} **Kijin An** and Eli Tilevich, "EdgStr: Automating Client-Cloud to Client-Edge-Cloud Transformation," *Proceedings of the 44th IEEE International Conference on Distributed Computing Systems (ICDCS 2024), July 2024 (**21%**).* [pdf](https://people.cs.vt.edu/~tilevich/papers/ICDCS2024_EdgStr.pdf), [slides](./Edstr_ICDCS2024.pdf)
 1. [Journal](){:.btn} **Kijin An** and Eli Tilevich, "Adaptive Redistribution and Replication to Improve the Responsiveness of Mobile Web Apps," accepted to [*Journal of Web Engineering*](https://journals.riverpublishers.com/index.php/JWE) (selected by [ICWE 2021's Special Issues](https://icwe2021.webengineering.org/special-issues/)).
 1. [Full Paper](){:.btn} **Kijin An** and Eli Tilevich, "Communicating Web Vessels: Improving the Responsiveness of Mobile Web Apps with Adaptive Redistribution," *21st International Conference on Web Engineering (ICWE 2021)* (**17%, 22/128**). [pdf](./ICWE_2021_paper_Kijin.pdf), [video](https://kjproj84.github.io/ICWE2021_KIJIN_AN.mp4), **Best Paper Award 🏆**
 1. [Full Paper](){:.btn} **Kijin An** and Eli Tilevich, "Client Insourcing: Bringing Ops In-House for Seamless Re-engineering of Full-Stack JavaScript Applications," *Proceedings of the Web Conference 2020 (WWW 2020)*, 179-189, April 2020 (**19%, 217/1129**). [pdf](https://people.cs.vt.edu/~tilevich/papers/Client_Insourcing_WebConf2020.pdf), [video](https://youtu.be/69U5Y6HsAOw), [code](https://github.com/kjproj84/JS-RCI)
