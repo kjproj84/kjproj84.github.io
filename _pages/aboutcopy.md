@@ -20,7 +20,7 @@ Research Interests
 
 News
 ---
-- October 2024. We received the bronze prize 🏆 on Samsung Best Paper Awards (SBPA) 2024 about a Refactoring algorithm based on a Reinforcement Learning scheme. 
+- October 2024. We received the bronze prize 🏆 on Samsung Best Paper Awards (SBPA) 2024 on the area of AI.
 - August 2024. I will be serving on a Program Committee of [WSDM 2025](https://www.wsdm-conference.org/2025/).
 - April 2024. One work is accepted to [ICDCS 2024](https://icdcs2024.icdcs.org). 🆕
 - June 2023. I will be serving on a Program Committee of [WSDM 2024](https://www.wsdm-conference.org/2024/).
