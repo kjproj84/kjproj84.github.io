@@ -20,8 +20,7 @@ Research Interests
 
 News
 ---
-- October 2025. I will be serving on the Program Committee for reviewing [Short Papers of WSDM 2026](https://wsdm-conference.org/2026/index.php/call-for-short-papers/).
-- September 2025. I will be serving on the Program Committee for reviewing [Full Papers of WSDM 2026](https://wsdm-conference.org/2026/index.php/call-for-papers/).
+- Sep/Oct 2025. I will be serving on the Program Committee of [WSDM 2026](https://wsdm-conference.org/2026) and reviewing both [Full Papers](https://wsdm-conference.org/2026/index.php/call-for-papers/) and [Short Papers](https://wsdm-conference.org/2026/index.php/call-for-short-papers/).
 - May 2025. I will be serving on the Program Committee of [CIKM 2025](http://cikm2025.org/).
 - October 2024. We received the bronze prize 🏆 on the Samsung Best Paper Awards (SBPA) 2024 in the area of AI.
 - August 2024. I will be serving on a Program Committee of [WSDM 2025](https://www.wsdm-conference.org/2025/).
