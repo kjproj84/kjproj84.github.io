@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Kijin An is a software engineer/researcher at the Software Engineering Team in [Samsung Research](https://research.samsung.com/) in Seoul, currently, he is developing an AI Coding assistant tool based on LLMs. He is interested in how agentic workflow, reinforcement learning, prompt engineering, or RAG affect the coding performance of LLM.
+Kijin An is a software engineer/researcher at the Software Engineering Team in [Samsung Research](https://research.samsung.com/) in Seoul, currently, he is developing an AI Coding assistant tool based on LLMs. He is interested in how agentic workflow, reinforcement learning, prompt engineering, or RAG affect the coding performance employing LLMs.
 
 Prior to that, he received his Ph.D. degree in the [Department of Computer Science](https://cs.vt.edu/) at [Virginia Tech](https://vt.edu/), advised by [Prof. Eli Tilevich](http://people.cs.vt.edu/~tilevich/). Also, he worked in [KIST](https://www.kist.re.kr/kist_web/main/) and completed his master's degree from [POSTECH](http://postech.ac.kr/eng/), under the supervision of [Prof. Hwangjun Song](http://mcnl.postech.ac.kr/professor).
 
@@ -20,7 +20,9 @@ Research Interests
 
 News
 ---
-- May 2025. August 2024. I will be serving on a Program Committee of [CIKM 2025](http://cikm2025.org/).
+- October 2025. I will be serving on the Program Committee for reviewing [Short Papers of WSDM 2026](https://wsdm-conference.org/2026/index.php/call-for-short-papers/).
+- September 2025. I will be serving on the Program Committee for reviewing [Full Papers of WSDM 2026](https://wsdm-conference.org/2026/index.php/call-for-papers/).
+- May 2025. I will be serving on the Program Committee of [CIKM 2025](http://cikm2025.org/).
 - October 2024. We received the bronze prize 🏆 on the Samsung Best Paper Awards (SBPA) 2024 in the area of AI.
 - August 2024. I will be serving on a Program Committee of [WSDM 2025](https://www.wsdm-conference.org/2025/).
 - April 2024. One work is accepted to [ICDCS 2024](https://icdcs2024.icdcs.org). 🆕
